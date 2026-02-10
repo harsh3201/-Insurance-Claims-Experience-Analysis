@@ -1,0 +1,1501 @@
+claim_id,claim_type,channel,user_city,submission_date,claim_status,rejection_reason,documents_complete,approval_date,claim_amount,settlement_amount
+C1000,Health,App,Delhi,2024-04-25,Approved,,Yes,2024-05-11,9011,8027.800142031668
+C1001,Life,App,Bangalore,2024-04-20,Approved,,Yes,2024-05-13,48459,48459.0
+C1002,Motor,App,Chennai,2024-03-19,Approved,,Yes,2024-03-24,37769,37769.0
+C1003,Motor,App,Hyderabad,2024-02-26,Approved,,Yes,2024-03-04,474643,474643.0
+C1004,Health,App,Delhi,2024-01-20,Approved,,Yes,2024-02-02,144392,118887.4618962538
+C1005,Health,App,Mumbai,2024-01-09,Rejected,Invalid Information,Yes,,218893,0.0
+C1006,Health,App,Delhi,2024-02-01,Rejected,Invalid Information,Yes,,257364,0.0
+C1007,Life,App,Delhi,2024-01-04,Rejected,Missing Documents,No,,87987,0.0
+C1008,Motor,Web,Mumbai,2024-02-19,Rejected,Missing Documents,No,,389096,0.0
+C1009,Motor,Web,Pune,2024-03-22,Approved,,Yes,2024-03-29,115776,115776.0
+C1010,Health,Web,Pune,2024-01-05,Rejected,Missing Documents,No,,118793,0.0
+C1011,Life,Web,Bangalore,2024-01-20,Rejected,Missing Documents,No,,176616,0.0
+C1012,Life,Web,Bangalore,2024-03-27,Approved,,Yes,2024-04-22,45860,45860.0
+C1013,Health,App,Pune,2024-03-15,Approved,,Yes,2024-03-31,367908,302384.74517512607
+C1014,Health,App,Hyderabad,2024-02-06,Rejected,Missing Documents,No,,197150,0.0
+C1015,Health,App,Chennai,2024-01-22,Approved,,Yes,2024-02-07,179673,168643.04491873056
+C1016,Health,Web,Delhi,2024-02-27,Rejected,Missing Documents,No,,418244,0.0
+C1017,Motor,Web,Chennai,2024-03-08,Approved,,Yes,2024-03-19,122769,122769.0
+C1018,Health,App,Delhi,2024-04-02,Approved,,Yes,2024-04-15,247580,212254.92021376002
+C1019,Health,Web,Pune,2024-02-13,Approved,,Yes,2024-03-02,222070,187645.7387714445
+C1020,Motor,App,Bangalore,2024-02-03,Approved,,Yes,2024-02-06,355239,355239.0
+C1021,Health,Web,Hyderabad,2024-03-17,Approved,,Yes,2024-03-29,197319,171737.7976889302
+C1022,Health,App,Bangalore,2024-02-11,Approved,,Yes,2024-02-24,355321,331355.5206624296
+C1023,Health,App,Chennai,2024-01-09,Approved,,Yes,2024-01-24,53639,48463.21375710917
+C1024,Health,App,Bangalore,2024-04-15,Rejected,Policy Expired,Yes,,187447,0.0
+C1025,Motor,App,Pune,2024-04-04,Approved,,Yes,2024-04-11,349407,349407.0
+C1026,Health,App,Hyderabad,2024-01-07,Approved,,Yes,2024-01-17,140895,131965.62998444674
+C1027,Motor,App,Chennai,2024-03-08,Approved,,Yes,2024-03-16,307039,307039.0
+C1028,Motor,Web,Hyderabad,2024-01-19,Approved,,Yes,2024-01-28,421561,421561.0
+C1029,Health,App,Delhi,2024-04-15,Rejected,Missing Documents,No,,459823,0.0
+C1030,Motor,App,Bangalore,2024-04-03,Approved,,Yes,2024-04-07,345662,345662.0
+C1031,Health,Web,Hyderabad,2024-01-31,Rejected,Policy Expired,Yes,,105625,0.0
+C1032,Health,Web,Mumbai,2024-02-04,Rejected,Missing Documents,No,,311899,0.0
+C1033,Life,App,Bangalore,2024-02-26,Rejected,Missing Documents,No,,346073,0.0
+C1034,Life,App,Delhi,2024-03-25,Approved,,Yes,2024-04-17,341606,341606.0
+C1035,Life,App,Hyderabad,2024-03-01,Approved,,Yes,2024-03-26,158706,158706.0
+C1036,Health,App,Chennai,2024-01-31,Approved,,Yes,2024-02-12,307862,256291.07518683604
+C1037,Health,Web,Delhi,2024-03-23,Rejected,Missing Documents,No,,319201,0.0
+C1038,Motor,App,Mumbai,2024-04-04,Rejected,Missing Documents,No,,280160,0.0
+C1039,Health,App,Hyderabad,2024-02-22,Approved,,Yes,2024-03-03,126169,116631.60425124699
+C1040,Health,Web,Pune,2024-02-01,Approved,,Yes,2024-02-15,468120,395507.4728780119
+C1041,Health,App,Bangalore,2024-03-06,Approved,,Yes,2024-03-18,436978,401777.28069467266
+C1042,Health,App,Chennai,2024-02-28,Approved,,Yes,2024-03-12,324348,288737.0580839541
+C1043,Life,App,Pune,2024-04-25,Approved,,Yes,2024-05-18,323261,323261.0
+C1044,Health,Web,Hyderabad,2024-01-10,Rejected,Invalid Information,Yes,,34813,0.0
+C1045,Motor,App,Hyderabad,2024-01-02,Approved,,Yes,2024-01-09,402798,402798.0
+C1046,Health,Web,Delhi,2024-03-06,Approved,,Yes,2024-03-24,442480,368527.8351643304
+C1047,Motor,App,Hyderabad,2024-02-29,Approved,,Yes,2024-03-03,320929,320929.0
+C1048,Motor,App,Chennai,2024-03-28,Approved,,Yes,2024-04-02,469307,469307.0
+C1049,Health,Web,Pune,2024-01-17,Approved,,Yes,2024-01-30,447765,412320.07162314834
+C1050,Life,Web,Chennai,2024-04-05,Approved,,Yes,2024-04-26,20116,20116.0
+C1051,Motor,Web,Mumbai,2024-01-16,Approved,,Yes,2024-01-24,162977,162977.0
+C1052,Life,Web,Mumbai,2024-01-16,Approved,,Yes,2024-02-07,491121,491121.0
+C1053,Life,Web,Bangalore,2024-02-15,Rejected,Missing Documents,No,,194518,0.0
+C1054,Motor,App,Bangalore,2024-02-08,Approved,,Yes,2024-02-14,44041,44041.0
+C1055,Life,App,Mumbai,2024-04-26,Approved,,Yes,2024-05-17,231486,231486.0
+C1056,Health,Web,Hyderabad,2024-01-31,Rejected,Missing Documents,No,,405705,0.0
+C1057,Health,App,Chennai,2024-04-16,Approved,,Yes,2024-04-28,384553,361675.4357190691
+C1058,Health,Web,Mumbai,2024-03-28,Approved,,Yes,2024-04-12,8089,6868.988107348758
+C1059,Health,Web,Bangalore,2024-01-01,Rejected,Missing Documents,No,,100965,0.0
+C1060,Health,App,Mumbai,2024-01-11,Approved,,Yes,2024-01-23,170637,141807.71507034794
+C1061,Health,App,Hyderabad,2024-04-28,Rejected,Fraud Suspected,Yes,,62786,0.0
+C1062,Life,Web,Mumbai,2024-03-25,Rejected,Missing Documents,No,,316438,0.0
+C1063,Health,App,Chennai,2024-01-04,Approved,,Yes,2024-01-20,358972,316003.82884949434
+C1064,Health,Web,Pune,2024-03-11,Rejected,Missing Documents,No,,330724,0.0
+C1065,Motor,App,Hyderabad,2024-01-26,Approved,,Yes,2024-02-02,456448,456448.0
+C1066,Health,Web,Bangalore,2024-04-20,Approved,,Yes,2024-05-06,406954,344258.7412532114
+C1067,Life,App,Chennai,2024-02-19,Approved,,Yes,2024-03-14,5363,5363.0
+C1068,Health,Web,Mumbai,2024-01-12,Approved,,Yes,2024-01-25,50689,41322.02642524324
+C1069,Life,App,Mumbai,2024-04-04,Approved,,Yes,2024-04-23,372371,372371.0
+C1070,Motor,App,Pune,2024-03-21,Approved,,Yes,2024-03-25,429041,429041.0
+C1071,Health,App,Bangalore,2024-04-06,Approved,,Yes,2024-04-17,400460,327823.0054711989
+C1072,Health,Web,Bangalore,2024-03-15,Approved,,Yes,2024-04-01,34063,28928.269291016066
+C1073,Life,Web,Delhi,2024-04-01,Rejected,Coverage Limit Exceeded,Yes,,175824,0.0
+C1074,Motor,App,Bangalore,2024-04-05,Approved,,Yes,2024-04-11,114876,114876.0
+C1075,Motor,App,Pune,2024-03-05,Approved,,Yes,2024-03-11,28004,28004.0
+C1076,Motor,App,Delhi,2024-02-16,Approved,,Yes,2024-02-24,330361,330361.0
+C1077,Health,Web,Delhi,2024-04-01,Approved,,Yes,2024-04-14,79205,74447.167809472
+C1078,Health,Web,Mumbai,2024-02-22,Rejected,Missing Documents,No,,230414,0.0
+C1079,Health,App,Mumbai,2024-04-15,Approved,,Yes,2024-04-30,399485,371270.7499906064
+C1080,Life,App,Bangalore,2024-03-11,Approved,,Yes,2024-04-04,177409,177409.0
+C1081,Motor,App,Delhi,2024-01-02,Approved,,Yes,2024-01-10,145183,145183.0
+C1082,Health,App,Mumbai,2024-04-15,Approved,,Yes,2024-04-29,288895,238898.82182887048
+C1083,Health,App,Pune,2024-01-24,Approved,,Yes,2024-02-03,315714,289651.8202559326
+C1084,Health,Web,Mumbai,2024-01-04,Rejected,Missing Documents,No,,136827,0.0
+C1085,Health,App,Hyderabad,2024-04-17,Approved,,Yes,2024-04-29,453073,396772.6618928382
+C1086,Motor,Web,Hyderabad,2024-01-19,Rejected,Missing Documents,No,,249255,0.0
+C1087,Motor,App,Mumbai,2024-01-26,Rejected,Missing Documents,No,,291744,0.0
+C1088,Life,App,Delhi,2024-03-15,Rejected,Coverage Limit Exceeded,Yes,,119919,0.0
+C1089,Health,Web,Delhi,2024-02-09,Rejected,Missing Documents,No,,230756,0.0
+C1090,Health,Web,Chennai,2024-02-19,Rejected,Missing Documents,No,,144718,0.0
+C1091,Motor,Web,Hyderabad,2024-02-12,Approved,,Yes,2024-02-18,429622,429622.0
+C1092,Motor,App,Pune,2024-03-15,Rejected,Fraud Suspected,Yes,,353594,0.0
+C1093,Motor,App,Delhi,2024-04-18,Approved,,Yes,2024-04-26,438917,438917.0
+C1094,Motor,Web,Bangalore,2024-03-07,Rejected,Coverage Limit Exceeded,Yes,,152764,0.0
+C1095,Health,App,Hyderabad,2024-01-12,Approved,,Yes,2024-01-24,119881,113348.82439094922
+C1096,Motor,App,Pune,2024-03-07,Approved,,Yes,2024-03-10,217803,217803.0
+C1097,Health,App,Pune,2024-04-15,Approved,,Yes,2024-04-30,364698,302779.42336205725
+C1098,Health,App,Delhi,2024-01-27,Approved,,Yes,2024-02-09,353951,305413.850211991
+C1099,Health,Web,Pune,2024-04-22,Approved,,Yes,2024-05-08,213281,188105.53707925565
+C1100,Health,App,Delhi,2024-02-23,Approved,,Yes,2024-03-05,204271,180551.60704917123
+C1101,Motor,App,Mumbai,2024-03-06,Rejected,Fraud Suspected,Yes,,120819,0.0
+C1102,Health,App,Hyderabad,2024-02-18,Rejected,Missing Documents,No,,146900,0.0
+C1103,Motor,App,Chennai,2024-01-16,Approved,,Yes,2024-01-25,42860,42860.0
+C1104,Life,App,Mumbai,2024-01-02,Approved,,Yes,2024-01-24,76695,76695.0
+C1105,Health,App,Hyderabad,2024-02-29,Approved,,Yes,2024-03-10,196007,161527.2232576531
+C1106,Health,App,Delhi,2024-02-23,Approved,,Yes,2024-03-07,401108,337224.55899629963
+C1107,Motor,Web,Hyderabad,2024-01-30,Approved,,Yes,2024-02-10,334478,334478.0
+C1108,Health,App,Delhi,2024-03-24,Approved,,Yes,2024-04-09,485398,401718.6446395445
+C1109,Health,App,Mumbai,2024-02-07,Approved,,Yes,2024-02-19,197537,186007.02719505626
+C1110,Health,Web,Bangalore,2024-01-28,Rejected,Missing Documents,No,,355036,0.0
+C1111,Health,Web,Bangalore,2024-01-25,Rejected,Fraud Suspected,Yes,,440686,0.0
+C1112,Life,App,Hyderabad,2024-04-05,Rejected,Coverage Limit Exceeded,Yes,,300901,0.0
+C1113,Life,App,Bangalore,2024-01-10,Approved,,Yes,2024-02-04,61116,61116.0
+C1114,Motor,App,Delhi,2024-02-29,Rejected,Invalid Information,Yes,,25836,0.0
+C1115,Life,Web,Pune,2024-02-11,Rejected,Policy Expired,Yes,,146835,0.0
+C1116,Life,Web,Delhi,2024-02-09,Approved,,Yes,2024-03-04,426175,426175.0
+C1117,Health,Web,Pune,2024-04-06,Approved,,Yes,2024-04-19,350932,304184.7356088091
+C1118,Life,App,Mumbai,2024-03-17,Approved,,Yes,2024-04-07,309169,309169.0
+C1119,Motor,Web,Chennai,2024-04-29,Approved,,Yes,2024-05-10,16831,16831.0
+C1120,Life,App,Pune,2024-04-14,Approved,,Yes,2024-05-05,393681,393681.0
+C1121,Life,App,Bangalore,2024-04-27,Approved,,Yes,2024-05-22,322188,322188.0
+C1122,Health,App,Delhi,2024-02-11,Approved,,Yes,2024-02-22,207123,195354.90832545597
+C1123,Health,Web,Mumbai,2024-02-16,Rejected,Missing Documents,No,,111471,0.0
+C1124,Health,App,Bangalore,2024-02-06,Approved,,Yes,2024-02-17,358699,320795.6118915142
+C1125,Health,Web,Mumbai,2024-04-27,Rejected,Missing Documents,No,,178364,0.0
+C1126,Life,App,Chennai,2024-03-20,Approved,,Yes,2024-04-14,100864,100864.0
+C1127,Life,App,Delhi,2024-04-18,Approved,,Yes,2024-05-10,398052,398052.0
+C1128,Health,App,Hyderabad,2024-01-22,Approved,,Yes,2024-02-07,294819,245952.65872380923
+C1129,Motor,App,Delhi,2024-02-26,Approved,,Yes,2024-03-01,397704,397704.0
+C1130,Health,Web,Chennai,2024-03-24,Approved,,Yes,2024-04-07,85730,79714.81310480862
+C1131,Health,App,Delhi,2024-04-23,Approved,,Yes,2024-05-04,132536,112767.15771183731
+C1132,Health,Web,Hyderabad,2024-04-16,Rejected,Missing Documents,No,,393227,0.0
+C1133,Health,Web,Pune,2024-01-27,Rejected,Missing Documents,No,,378704,0.0
+C1134,Life,Web,Mumbai,2024-02-10,Approved,,Yes,2024-03-02,304479,304479.0
+C1135,Health,App,Hyderabad,2024-03-20,Approved,,Yes,2024-04-05,374566,341810.0596063666
+C1136,Motor,App,Bangalore,2024-02-03,Approved,,Yes,2024-02-12,82527,82527.0
+C1137,Motor,App,Chennai,2024-02-01,Approved,,Yes,2024-02-04,327926,327926.0
+C1138,Health,Web,Pune,2024-03-30,Rejected,Missing Documents,No,,356770,0.0
+C1139,Life,Web,Bangalore,2024-03-29,Approved,,Yes,2024-04-22,139563,139563.0
+C1140,Life,App,Bangalore,2024-03-06,Approved,,Yes,2024-03-26,196480,196480.0
+C1141,Health,Web,Chennai,2024-01-12,Rejected,Missing Documents,No,,436739,0.0
+C1142,Health,App,Pune,2024-02-09,Approved,,Yes,2024-02-22,279270,260028.86969795774
+C1143,Health,Web,Bangalore,2024-03-13,Approved,,Yes,2024-03-28,197718,182573.87644141237
+C1144,Health,App,Bangalore,2024-03-16,Approved,,Yes,2024-03-26,204665,189503.00442692463
+C1145,Health,Web,Pune,2024-03-30,Rejected,Missing Documents,No,,324532,0.0
+C1146,Motor,App,Delhi,2024-03-13,Rejected,Coverage Limit Exceeded,Yes,,215387,0.0
+C1147,Motor,Web,Bangalore,2024-01-10,Rejected,Missing Documents,No,,300276,0.0
+C1148,Health,Web,Mumbai,2024-04-05,Rejected,Policy Expired,Yes,,382411,0.0
+C1149,Health,Web,Pune,2024-04-07,Approved,,Yes,2024-04-25,378513,328742.1700357497
+C1150,Life,App,Bangalore,2024-02-17,Rejected,Invalid Information,Yes,,126225,0.0
+C1151,Health,App,Chennai,2024-01-20,Approved,,Yes,2024-02-01,291100,237102.16795312412
+C1152,Health,App,Hyderabad,2024-02-08,Approved,,Yes,2024-02-22,242268,196693.02171393423
+C1153,Health,App,Mumbai,2024-02-29,Rejected,Invalid Information,Yes,,302438,0.0
+C1154,Life,App,Hyderabad,2024-03-06,Approved,,Yes,2024-03-27,35270,35270.0
+C1155,Health,Web,Hyderabad,2024-03-05,Approved,,Yes,2024-03-21,215765,192338.50578590354
+C1156,Motor,App,Bangalore,2024-02-20,Approved,,Yes,2024-02-26,239873,239873.0
+C1157,Motor,App,Mumbai,2024-02-05,Approved,,Yes,2024-02-08,59144,59144.0
+C1158,Health,App,Mumbai,2024-01-24,Approved,,Yes,2024-02-06,123910,100191.82980405018
+C1159,Motor,App,Delhi,2024-04-27,Rejected,Missing Documents,No,,401659,0.0
+C1160,Health,Web,Hyderabad,2024-01-27,Approved,,Yes,2024-02-11,115084,94532.54621239331
+C1161,Motor,App,Mumbai,2024-01-02,Approved,,Yes,2024-01-09,164762,164762.0
+C1162,Motor,Web,Delhi,2024-01-31,Approved,,Yes,2024-02-07,155953,155953.0
+C1163,Motor,App,Pune,2024-02-26,Rejected,Fraud Suspected,Yes,,96288,0.0
+C1164,Health,Web,Delhi,2024-03-18,Approved,,Yes,2024-04-05,223547,182705.95122152293
+C1165,Life,Web,Chennai,2024-03-06,Rejected,Missing Documents,No,,256063,0.0
+C1166,Health,App,Bangalore,2024-01-29,Rejected,Missing Documents,No,,27486,0.0
+C1167,Health,Web,Pune,2024-01-15,Approved,,Yes,2024-01-27,217566,199970.86142119174
+C1168,Health,App,Pune,2024-01-12,Approved,,Yes,2024-01-28,491517,405116.74234437646
+C1169,Motor,Web,Chennai,2024-04-10,Rejected,Missing Documents,No,,282267,0.0
+C1170,Motor,App,Delhi,2024-01-28,Rejected,Invalid Information,Yes,,497094,0.0
+C1171,Health,Web,Bangalore,2024-03-24,Rejected,Missing Documents,No,,182170,0.0
+C1172,Motor,Web,Delhi,2024-04-12,Rejected,Missing Documents,No,,263470,0.0
+C1173,Health,Web,Mumbai,2024-01-24,Rejected,Missing Documents,No,,145021,0.0
+C1174,Motor,Web,Delhi,2024-01-21,Approved,,Yes,2024-01-29,240943,240943.0
+C1175,Health,App,Pune,2024-01-10,Approved,,Yes,2024-01-24,12837,11229.165162631969
+C1176,Motor,App,Bangalore,2024-04-19,Approved,,Yes,2024-04-24,107413,107413.0
+C1177,Health,App,Delhi,2024-03-18,Rejected,Fraud Suspected,Yes,,63123,0.0
+C1178,Life,App,Bangalore,2024-04-10,Approved,,Yes,2024-05-01,229866,229866.0
+C1179,Health,Web,Bangalore,2024-01-18,Approved,,Yes,2024-02-02,98448,90303.09904545468
+C1180,Health,App,Mumbai,2024-03-28,Approved,,Yes,2024-04-12,65186,55493.52072513811
+C1181,Health,Web,Mumbai,2024-01-14,Rejected,Missing Documents,No,,41160,0.0
+C1182,Life,Web,Pune,2024-02-03,Approved,,Yes,2024-02-25,464822,464822.0
+C1183,Life,Web,Chennai,2024-02-27,Approved,,Yes,2024-03-25,466691,466691.0
+C1184,Health,App,Bangalore,2024-03-16,Approved,,Yes,2024-03-28,207459,192836.19775449118
+C1185,Motor,Web,Chennai,2024-01-22,Approved,,Yes,2024-01-30,162255,162255.0
+C1186,Life,Web,Pune,2024-04-29,Approved,,Yes,2024-05-26,419627,419627.0
+C1187,Motor,App,Bangalore,2024-03-10,Approved,,Yes,2024-03-19,171280,171280.0
+C1188,Motor,Web,Bangalore,2024-02-05,Rejected,Missing Documents,No,,429429,0.0
+C1189,Health,Web,Hyderabad,2024-02-14,Approved,,Yes,2024-02-27,318732,279557.7071151934
+C1190,Health,App,Chennai,2024-02-05,Approved,,Yes,2024-02-15,418083,354596.9111749025
+C1191,Life,App,Delhi,2024-01-22,Approved,,Yes,2024-02-16,108215,108215.0
+C1192,Life,App,Mumbai,2024-03-18,Rejected,Coverage Limit Exceeded,Yes,,422230,0.0
+C1193,Motor,App,Delhi,2024-03-20,Approved,,Yes,2024-03-23,272614,272614.0
+C1194,Health,App,Chennai,2024-03-01,Approved,,Yes,2024-03-12,360113,304807.0011596415
+C1195,Health,App,Mumbai,2024-04-09,Rejected,Missing Documents,No,,445977,0.0
+C1196,Motor,App,Delhi,2024-02-25,Approved,,Yes,2024-03-02,281601,281601.0
+C1197,Life,App,Hyderabad,2024-03-29,Approved,,Yes,2024-04-17,186726,186726.0
+C1198,Life,Web,Mumbai,2024-04-05,Rejected,Missing Documents,No,,138114,0.0
+C1199,Motor,App,Bangalore,2024-02-02,Approved,,Yes,2024-02-10,119161,119161.0
+C1200,Motor,Web,Delhi,2024-02-14,Approved,,Yes,2024-02-24,144681,144681.0
+C1201,Health,App,Mumbai,2024-02-05,Rejected,Invalid Information,Yes,,147692,0.0
+C1202,Health,App,Hyderabad,2024-01-20,Approved,,Yes,2024-02-04,94941,89528.9903696157
+C1203,Life,App,Mumbai,2024-01-18,Approved,,Yes,2024-02-06,342164,342164.0
+C1204,Motor,App,Mumbai,2024-02-07,Rejected,Fraud Suspected,Yes,,142815,0.0
+C1205,Health,App,Hyderabad,2024-03-07,Approved,,Yes,2024-03-21,228177,182794.59928437817
+C1206,Health,Web,Delhi,2024-01-23,Rejected,Invalid Information,Yes,,74123,0.0
+C1207,Motor,App,Pune,2024-04-05,Approved,,Yes,2024-04-11,356224,356224.0
+C1208,Health,Web,Delhi,2024-04-18,Approved,,Yes,2024-05-02,309606,260121.3235300582
+C1209,Health,Web,Chennai,2024-01-16,Rejected,Invalid Information,Yes,,71381,0.0
+C1210,Motor,App,Hyderabad,2024-02-28,Approved,,Yes,2024-03-05,391791,391791.0
+C1211,Motor,App,Delhi,2024-03-09,Approved,,Yes,2024-03-13,270976,270976.0
+C1212,Motor,Web,Mumbai,2024-03-08,Rejected,Missing Documents,No,,46025,0.0
+C1213,Health,App,Hyderabad,2024-01-21,Approved,,Yes,2024-02-01,400797,338919.6326720074
+C1214,Motor,App,Bangalore,2024-04-13,Approved,,Yes,2024-04-17,89363,89363.0
+C1215,Health,Web,Delhi,2024-04-24,Rejected,Missing Documents,No,,216027,0.0
+C1216,Health,App,Hyderabad,2024-03-18,Rejected,Policy Expired,Yes,,376380,0.0
+C1217,Motor,Web,Delhi,2024-04-12,Approved,,Yes,2024-04-18,486632,486632.0
+C1218,Motor,Web,Hyderabad,2024-04-04,Approved,,Yes,2024-04-13,10666,10666.0
+C1219,Life,App,Mumbai,2024-03-18,Approved,,Yes,2024-04-08,211717,211717.0
+C1220,Motor,App,Bangalore,2024-03-10,Rejected,Missing Documents,No,,396351,0.0
+C1221,Motor,App,Bangalore,2024-01-12,Approved,,Yes,2024-01-17,82511,82511.0
+C1222,Health,App,Chennai,2024-01-16,Approved,,Yes,2024-01-30,239561,225054.96845058067
+C1223,Health,App,Hyderabad,2024-03-21,Approved,,Yes,2024-04-01,224057,194240.7414677499
+C1224,Health,Web,Delhi,2024-04-18,Approved,,Yes,2024-05-04,118034,97322.93628753643
+C1225,Health,App,Bangalore,2024-03-27,Approved,,Yes,2024-04-11,417289,390149.1334169239
+C1226,Life,App,Bangalore,2024-01-14,Approved,,Yes,2024-02-02,418532,418532.0
+C1227,Health,Web,Pune,2024-03-01,Approved,,Yes,2024-03-13,483997,445768.99810839415
+C1228,Life,Web,Pune,2024-03-11,Approved,,Yes,2024-04-06,118012,118012.0
+C1229,Motor,Web,Bangalore,2024-02-15,Rejected,Missing Documents,No,,180858,0.0
+C1230,Motor,App,Hyderabad,2024-02-01,Approved,,Yes,2024-02-05,20994,20994.0
+C1231,Motor,Web,Chennai,2024-01-15,Rejected,Missing Documents,No,,390105,0.0
+C1232,Motor,App,Bangalore,2024-02-13,Rejected,Invalid Information,Yes,,37930,0.0
+C1233,Health,App,Mumbai,2024-01-17,Approved,,Yes,2024-01-31,425520,357467.2716917038
+C1234,Health,App,Delhi,2024-02-10,Rejected,Missing Documents,No,,18403,0.0
+C1235,Motor,Web,Chennai,2024-02-23,Rejected,Missing Documents,No,,266420,0.0
+C1236,Health,App,Mumbai,2024-04-20,Approved,,Yes,2024-05-05,401601,358721.1811636197
+C1237,Health,App,Chennai,2024-02-13,Approved,,Yes,2024-02-29,169404,138916.38498515455
+C1238,Motor,App,Mumbai,2024-04-07,Approved,,Yes,2024-04-14,60182,60182.0
+C1239,Health,App,Delhi,2024-01-05,Approved,,Yes,2024-01-17,350992,329880.6108392449
+C1240,Life,Web,Delhi,2024-04-18,Rejected,Missing Documents,No,,300929,0.0
+C1241,Life,Web,Pune,2024-01-27,Approved,,Yes,2024-02-19,149375,149375.0
+C1242,Life,Web,Hyderabad,2024-04-25,Approved,,Yes,2024-05-16,137965,137965.0
+C1243,Health,App,Mumbai,2024-03-27,Approved,,Yes,2024-04-10,258478,244563.06862028176
+C1244,Health,App,Pune,2024-04-13,Rejected,Missing Documents,No,,396770,0.0
+C1245,Life,App,Mumbai,2024-03-18,Approved,,Yes,2024-04-08,19016,19016.0
+C1246,Health,App,Pune,2024-03-19,Approved,,Yes,2024-04-01,265710,243172.86428716703
+C1247,Life,App,Delhi,2024-02-12,Approved,,Yes,2024-03-08,481210,481210.0
+C1248,Life,Web,Chennai,2024-04-06,Rejected,Policy Expired,Yes,,499527,0.0
+C1249,Life,App,Pune,2024-04-26,Approved,,Yes,2024-05-16,137283,137283.0
+C1250,Health,App,Mumbai,2024-01-31,Approved,,Yes,2024-02-11,36819,31653.075299008964
+C1251,Health,App,Mumbai,2024-04-08,Rejected,Missing Documents,No,,418166,0.0
+C1252,Life,App,Hyderabad,2024-01-17,Rejected,Missing Documents,No,,325176,0.0
+C1253,Health,App,Delhi,2024-04-01,Rejected,Missing Documents,No,,295180,0.0
+C1254,Health,Web,Mumbai,2024-03-23,Approved,,Yes,2024-04-08,311521,282642.488224752
+C1255,Motor,Web,Bangalore,2024-04-19,Approved,,Yes,2024-04-29,287894,287894.0
+C1256,Life,Web,Chennai,2024-02-23,Rejected,Missing Documents,No,,14472,0.0
+C1257,Motor,App,Pune,2024-03-02,Rejected,Fraud Suspected,Yes,,370406,0.0
+C1258,Motor,App,Hyderabad,2024-03-27,Rejected,Missing Documents,No,,144471,0.0
+C1259,Health,App,Chennai,2024-02-01,Rejected,Invalid Information,Yes,,48162,0.0
+C1260,Motor,App,Delhi,2024-02-09,Approved,,Yes,2024-02-14,91373,91373.0
+C1261,Life,Web,Hyderabad,2024-01-13,Rejected,Missing Documents,No,,199442,0.0
+C1262,Health,App,Pune,2024-03-24,Approved,,Yes,2024-04-09,478919,407122.03566415387
+C1263,Motor,App,Pune,2024-02-04,Approved,,Yes,2024-02-11,112967,112967.0
+C1264,Life,App,Bangalore,2024-01-05,Approved,,Yes,2024-01-29,244646,244646.0
+C1265,Motor,App,Delhi,2024-03-13,Approved,,Yes,2024-03-16,196758,196758.0
+C1266,Motor,Web,Hyderabad,2024-01-29,Rejected,Missing Documents,No,,293137,0.0
+C1267,Motor,App,Hyderabad,2024-03-10,Approved,,Yes,2024-03-16,487668,487668.0
+C1268,Health,App,Mumbai,2024-01-25,Rejected,Fraud Suspected,Yes,,461104,0.0
+C1269,Health,App,Bangalore,2024-04-04,Rejected,Coverage Limit Exceeded,Yes,,75309,0.0
+C1270,Life,App,Bangalore,2024-01-22,Approved,,Yes,2024-02-10,26576,26576.0
+C1271,Life,Web,Hyderabad,2024-03-06,Approved,,Yes,2024-03-31,285092,285092.0
+C1272,Life,Web,Hyderabad,2024-02-14,Rejected,Missing Documents,No,,174898,0.0
+C1273,Life,Web,Chennai,2024-03-09,Rejected,Missing Documents,No,,196303,0.0
+C1274,Motor,Web,Chennai,2024-03-31,Rejected,Missing Documents,No,,262412,0.0
+C1275,Motor,App,Chennai,2024-03-29,Rejected,Missing Documents,No,,374705,0.0
+C1276,Motor,Web,Bangalore,2024-03-12,Rejected,Invalid Information,Yes,,122569,0.0
+C1277,Motor,App,Mumbai,2024-04-28,Approved,,Yes,2024-05-01,86494,86494.0
+C1278,Motor,App,Pune,2024-01-01,Approved,,Yes,2024-01-09,346116,346116.0
+C1279,Motor,Web,Chennai,2024-03-24,Rejected,Missing Documents,No,,95748,0.0
+C1280,Life,App,Mumbai,2024-02-13,Approved,,Yes,2024-03-04,134529,134529.0
+C1281,Health,Web,Delhi,2024-03-27,Rejected,Missing Documents,No,,489353,0.0
+C1282,Health,App,Chennai,2024-04-05,Approved,,Yes,2024-04-21,484767,408619.92391910846
+C1283,Health,Web,Pune,2024-03-15,Rejected,Missing Documents,No,,327768,0.0
+C1284,Motor,Web,Delhi,2024-02-08,Rejected,Policy Expired,Yes,,352613,0.0
+C1285,Health,Web,Delhi,2024-04-20,Approved,,Yes,2024-05-08,473298,394095.99791432
+C1286,Health,Web,Pune,2024-02-23,Rejected,Missing Documents,No,,457396,0.0
+C1287,Motor,Web,Chennai,2024-03-28,Rejected,Missing Documents,No,,195912,0.0
+C1288,Health,App,Bangalore,2024-03-15,Approved,,Yes,2024-03-28,498027,466535.64062462345
+C1289,Motor,App,Pune,2024-01-29,Approved,,Yes,2024-02-06,249942,249942.0
+C1290,Health,App,Pune,2024-02-23,Approved,,Yes,2024-03-06,228936,209069.87685114582
+C1291,Health,Web,Pune,2024-03-30,Approved,,Yes,2024-04-13,68884,65275.402795380396
+C1292,Life,App,Delhi,2024-01-16,Approved,,Yes,2024-02-05,113721,113721.0
+C1293,Health,Web,Mumbai,2024-04-08,Approved,,Yes,2024-04-22,221779,186261.72183357127
+C1294,Health,App,Bangalore,2024-01-20,Rejected,Missing Documents,No,,355052,0.0
+C1295,Motor,App,Chennai,2024-02-15,Rejected,Missing Documents,No,,241545,0.0
+C1296,Motor,Web,Chennai,2024-03-07,Rejected,Missing Documents,No,,212302,0.0
+C1297,Health,App,Mumbai,2024-03-05,Approved,,Yes,2024-03-19,161323,133661.62107255455
+C1298,Motor,App,Pune,2024-02-27,Approved,,Yes,2024-03-03,108535,108535.0
+C1299,Health,App,Bangalore,2024-02-22,Approved,,Yes,2024-03-09,203360,178390.97830240036
+C1300,Health,Web,Chennai,2024-04-20,Rejected,Fraud Suspected,Yes,,311709,0.0
+C1301,Motor,Web,Hyderabad,2024-01-01,Approved,,Yes,2024-01-10,330812,330812.0
+C1302,Motor,App,Chennai,2024-03-21,Rejected,Coverage Limit Exceeded,Yes,,263228,0.0
+C1303,Motor,App,Pune,2024-03-06,Rejected,Invalid Information,Yes,,194973,0.0
+C1304,Motor,App,Hyderabad,2024-01-29,Approved,,Yes,2024-02-04,313838,313838.0
+C1305,Life,Web,Mumbai,2024-03-24,Rejected,Invalid Information,Yes,,6620,0.0
+C1306,Motor,Web,Bangalore,2024-03-10,Approved,,Yes,2024-03-17,437606,437606.0
+C1307,Health,App,Mumbai,2024-01-08,Rejected,Missing Documents,No,,185324,0.0
+C1308,Motor,App,Mumbai,2024-01-29,Rejected,Invalid Information,Yes,,421826,0.0
+C1309,Health,App,Bangalore,2024-04-21,Approved,,Yes,2024-05-02,367990,343355.4289293556
+C1310,Health,Web,Bangalore,2024-02-20,Approved,,Yes,2024-03-05,176236,162589.353009313
+C1311,Health,Web,Chennai,2024-02-02,Approved,,Yes,2024-02-19,94846,76990.79003574562
+C1312,Health,App,Chennai,2024-01-03,Rejected,Coverage Limit Exceeded,Yes,,335825,0.0
+C1313,Life,App,Bangalore,2024-02-29,Rejected,Missing Documents,No,,329676,0.0
+C1314,Life,App,Hyderabad,2024-02-04,Approved,,Yes,2024-02-23,336747,336747.0
+C1315,Motor,Web,Delhi,2024-03-09,Approved,,Yes,2024-03-14,178084,178084.0
+C1316,Health,App,Chennai,2024-03-31,Approved,,Yes,2024-04-16,208141,188972.9255134248
+C1317,Health,Web,Delhi,2024-04-17,Approved,,Yes,2024-04-30,444025,364950.57912717276
+C1318,Health,Web,Hyderabad,2024-03-16,Rejected,Missing Documents,No,,202327,0.0
+C1319,Health,App,Bangalore,2024-03-24,Rejected,Missing Documents,No,,293642,0.0
+C1320,Motor,App,Hyderabad,2024-04-18,Approved,,Yes,2024-04-26,293172,293172.0
+C1321,Motor,App,Chennai,2024-01-20,Approved,,Yes,2024-01-26,421313,421313.0
+C1322,Motor,Web,Mumbai,2024-03-13,Approved,,Yes,2024-03-22,151115,151115.0
+C1323,Health,Web,Bangalore,2024-02-08,Approved,,Yes,2024-02-23,189100,153661.59811216642
+C1324,Life,Web,Pune,2024-01-04,Rejected,Missing Documents,No,,211724,0.0
+C1325,Motor,App,Delhi,2024-04-24,Approved,,Yes,2024-04-27,145319,145319.0
+C1326,Motor,App,Hyderabad,2024-04-27,Approved,,Yes,2024-05-01,482387,482387.0
+C1327,Motor,Web,Bangalore,2024-01-19,Rejected,Missing Documents,No,,91489,0.0
+C1328,Health,Web,Hyderabad,2024-04-11,Rejected,Invalid Information,Yes,,83209,0.0
+C1329,Health,App,Bangalore,2024-03-31,Rejected,Missing Documents,No,,197941,0.0
+C1330,Health,Web,Chennai,2024-02-14,Approved,,Yes,2024-03-03,403635,331247.1454506871
+C1331,Motor,Web,Chennai,2024-02-12,Rejected,Invalid Information,Yes,,464560,0.0
+C1332,Health,App,Chennai,2024-01-13,Approved,,Yes,2024-01-29,230409,192750.08480950017
+C1333,Health,Web,Hyderabad,2024-01-13,Approved,,Yes,2024-01-26,380595,339365.6112039876
+C1334,Health,Web,Pune,2024-02-29,Rejected,Missing Documents,No,,385286,0.0
+C1335,Health,Web,Chennai,2024-02-26,Approved,,Yes,2024-03-15,23174,19795.949846682815
+C1336,Life,App,Bangalore,2024-03-26,Approved,,Yes,2024-04-15,185536,185536.0
+C1337,Motor,App,Chennai,2024-04-01,Approved,,Yes,2024-04-06,162883,162883.0
+C1338,Health,Web,Mumbai,2024-02-21,Approved,,Yes,2024-03-04,473451,421677.07978033484
+C1339,Health,App,Chennai,2024-04-20,Approved,,Yes,2024-05-04,269291,219212.00593702449
+C1340,Health,App,Hyderabad,2024-02-22,Approved,,Yes,2024-03-05,400229,332880.8702137439
+C1341,Health,App,Pune,2024-04-18,Approved,,Yes,2024-04-29,157376,148541.32625701532
+C1342,Health,App,Mumbai,2024-03-26,Approved,,Yes,2024-04-07,157324,133962.43510505452
+C1343,Health,Web,Hyderabad,2024-02-12,Approved,,Yes,2024-02-26,329135,294515.9284490062
+C1344,Health,Web,Hyderabad,2024-03-23,Approved,,Yes,2024-04-05,77361,70598.22705782294
+C1345,Motor,App,Hyderabad,2024-03-12,Rejected,Policy Expired,Yes,,183130,0.0
+C1346,Motor,App,Bangalore,2024-04-25,Approved,,Yes,2024-05-04,229793,229793.0
+C1347,Health,App,Hyderabad,2024-03-12,Approved,,Yes,2024-03-23,437859,354839.2548292162
+C1348,Health,Web,Bangalore,2024-02-11,Approved,,Yes,2024-02-29,298132,239810.07174926362
+C1349,Motor,Web,Hyderabad,2024-03-30,Rejected,Invalid Information,Yes,,146041,0.0
+C1350,Motor,App,Delhi,2024-04-21,Approved,,Yes,2024-04-28,175534,175534.0
+C1351,Life,Web,Mumbai,2024-04-24,Approved,,Yes,2024-05-15,245037,245037.0
+C1352,Motor,Web,Delhi,2024-01-26,Approved,,Yes,2024-02-01,349741,349741.0
+C1353,Health,Web,Hyderabad,2024-01-23,Approved,,Yes,2024-02-04,251855,224859.17819002905
+C1354,Health,Web,Mumbai,2024-02-12,Approved,,Yes,2024-02-25,207821,192184.27669036825
+C1355,Motor,App,Mumbai,2024-03-17,Approved,,Yes,2024-03-23,325610,325610.0
+C1356,Health,Web,Pune,2024-01-28,Rejected,Missing Documents,No,,469434,0.0
+C1357,Motor,App,Delhi,2024-01-09,Approved,,Yes,2024-01-13,21984,21984.0
+C1358,Life,Web,Pune,2024-01-20,Rejected,Missing Documents,No,,420976,0.0
+C1359,Motor,Web,Mumbai,2024-02-25,Approved,,Yes,2024-03-01,70614,70614.0
+C1360,Health,Web,Bangalore,2024-03-23,Approved,,Yes,2024-04-05,411578,386838.1827039902
+C1361,Motor,Web,Mumbai,2024-04-21,Approved,,Yes,2024-04-27,343551,343551.0
+C1362,Health,App,Pune,2024-02-08,Approved,,Yes,2024-02-18,239898,195858.09009828293
+C1363,Motor,App,Delhi,2024-02-20,Rejected,Missing Documents,No,,444667,0.0
+C1364,Life,Web,Hyderabad,2024-01-12,Rejected,Missing Documents,No,,50890,0.0
+C1365,Health,Web,Hyderabad,2024-03-19,Approved,,Yes,2024-04-04,287752,259268.2810750584
+C1366,Life,App,Delhi,2024-04-04,Approved,,Yes,2024-04-27,16560,16560.0
+C1367,Life,App,Hyderabad,2024-02-24,Approved,,Yes,2024-03-16,456989,456989.0
+C1368,Health,App,Hyderabad,2024-03-18,Approved,,Yes,2024-04-02,267172,223315.62323262208
+C1369,Health,Web,Pune,2024-01-11,Approved,,Yes,2024-01-24,72560,58261.88673821669
+C1370,Health,Web,Delhi,2024-01-26,Rejected,Missing Documents,No,,149575,0.0
+C1371,Health,App,Chennai,2024-02-11,Approved,,Yes,2024-02-27,231113,208472.61659981465
+C1372,Health,App,Bangalore,2024-01-27,Rejected,Fraud Suspected,Yes,,386433,0.0
+C1373,Motor,Web,Bangalore,2024-01-11,Rejected,Missing Documents,No,,347808,0.0
+C1374,Health,Web,Hyderabad,2024-02-07,Rejected,Invalid Information,Yes,,347873,0.0
+C1375,Health,App,Bangalore,2024-04-07,Rejected,Missing Documents,No,,376493,0.0
+C1376,Life,App,Delhi,2024-02-12,Approved,,Yes,2024-03-06,304290,304290.0
+C1377,Health,App,Delhi,2024-01-19,Rejected,Missing Documents,No,,394317,0.0
+C1378,Life,App,Mumbai,2024-03-04,Rejected,Coverage Limit Exceeded,Yes,,311604,0.0
+C1379,Health,App,Mumbai,2024-01-06,Approved,,Yes,2024-01-17,399995,332932.4242072588
+C1380,Health,Web,Bangalore,2024-02-15,Rejected,Missing Documents,No,,272201,0.0
+C1381,Motor,Web,Chennai,2024-04-25,Approved,,Yes,2024-05-05,113612,113612.0
+C1382,Motor,Web,Mumbai,2024-04-11,Approved,,Yes,2024-04-18,264418,264418.0
+C1383,Life,Web,Mumbai,2024-04-22,Approved,,Yes,2024-05-13,453934,453934.0
+C1384,Motor,App,Delhi,2024-02-11,Rejected,Coverage Limit Exceeded,Yes,,406339,0.0
+C1385,Life,App,Chennai,2024-04-01,Rejected,Invalid Information,Yes,,303983,0.0
+C1386,Health,App,Hyderabad,2024-03-05,Approved,,Yes,2024-03-21,115100,97979.01151697562
+C1387,Health,App,Bangalore,2024-04-08,Rejected,Missing Documents,No,,496860,0.0
+C1388,Motor,Web,Mumbai,2024-04-13,Approved,,Yes,2024-04-23,415259,415259.0
+C1389,Life,Web,Chennai,2024-03-12,Rejected,Missing Documents,No,,205065,0.0
+C1390,Life,App,Chennai,2024-02-28,Approved,,Yes,2024-03-18,390016,390016.0
+C1391,Health,App,Bangalore,2024-02-21,Approved,,Yes,2024-03-06,349076,290415.62759644113
+C1392,Health,Web,Chennai,2024-04-27,Rejected,Fraud Suspected,Yes,,240851,0.0
+C1393,Motor,App,Chennai,2024-02-16,Approved,,Yes,2024-02-25,112724,112724.0
+C1394,Health,App,Chennai,2024-04-29,Rejected,Coverage Limit Exceeded,Yes,,286396,0.0
+C1395,Life,Web,Mumbai,2024-01-07,Rejected,Missing Documents,No,,492492,0.0
+C1396,Life,Web,Bangalore,2024-01-11,Approved,,Yes,2024-02-02,332891,332891.0
+C1397,Health,App,Chennai,2024-04-12,Rejected,Coverage Limit Exceeded,Yes,,93780,0.0
+C1398,Motor,App,Chennai,2024-03-01,Approved,,Yes,2024-03-09,281735,281735.0
+C1399,Motor,Web,Mumbai,2024-03-08,Approved,,Yes,2024-03-19,499763,499763.0
+C1400,Health,App,Bangalore,2024-01-25,Approved,,Yes,2024-02-05,395732,373620.2420319966
+C1401,Life,App,Delhi,2024-01-12,Rejected,Missing Documents,No,,432534,0.0
+C1402,Motor,Web,Mumbai,2024-01-26,Approved,,Yes,2024-02-05,479319,479319.0
+C1403,Life,App,Bangalore,2024-04-11,Approved,,Yes,2024-04-30,418841,418841.0
+C1404,Health,Web,Chennai,2024-04-19,Rejected,Missing Documents,No,,303073,0.0
+C1405,Life,App,Bangalore,2024-01-12,Approved,,Yes,2024-02-02,407431,407431.0
+C1406,Health,Web,Bangalore,2024-02-12,Approved,,Yes,2024-02-28,364181,323100.7105426735
+C1407,Health,App,Hyderabad,2024-02-20,Approved,,Yes,2024-03-07,392128,334964.7849627991
+C1408,Life,App,Bangalore,2024-04-26,Approved,,Yes,2024-05-20,256666,256666.0
+C1409,Health,App,Delhi,2024-02-06,Approved,,Yes,2024-02-17,340510,289703.07644377137
+C1410,Health,App,Bangalore,2024-02-15,Approved,,Yes,2024-02-25,210728,198122.4695319105
+C1411,Life,Web,Delhi,2024-02-22,Rejected,Missing Documents,No,,211354,0.0
+C1412,Life,Web,Chennai,2024-03-28,Approved,,Yes,2024-04-22,228777,228777.0
+C1413,Motor,App,Delhi,2024-03-20,Rejected,Invalid Information,Yes,,419039,0.0
+C1414,Motor,App,Chennai,2024-01-13,Rejected,Missing Documents,No,,202466,0.0
+C1415,Health,Web,Chennai,2024-03-29,Rejected,Missing Documents,No,,30020,0.0
+C1416,Health,Web,Delhi,2024-04-27,Approved,,Yes,2024-05-15,112791,105075.6963682423
+C1417,Health,App,Mumbai,2024-02-23,Rejected,Fraud Suspected,Yes,,164472,0.0
+C1418,Motor,App,Pune,2024-02-26,Approved,,Yes,2024-02-29,473255,473255.0
+C1419,Motor,App,Bangalore,2024-04-25,Approved,,Yes,2024-05-01,234016,234016.0
+C1420,Motor,Web,Hyderabad,2024-04-27,Approved,,Yes,2024-05-06,53037,53037.0
+C1421,Motor,App,Pune,2024-01-04,Approved,,Yes,2024-01-07,487870,487870.0
+C1422,Health,Web,Bangalore,2024-03-15,Approved,,Yes,2024-03-28,229174,185136.35168187722
+C1423,Health,App,Bangalore,2024-04-05,Approved,,Yes,2024-04-20,401998,342855.8074916488
+C1424,Health,Web,Chennai,2024-02-18,Rejected,Missing Documents,No,,54111,0.0
+C1425,Motor,App,Bangalore,2024-01-07,Approved,,Yes,2024-01-10,185109,185109.0
+C1426,Health,App,Hyderabad,2024-04-19,Rejected,Coverage Limit Exceeded,Yes,,149407,0.0
+C1427,Life,App,Bangalore,2024-01-11,Rejected,Missing Documents,No,,216445,0.0
+C1428,Health,Web,Delhi,2024-04-01,Rejected,Missing Documents,No,,298151,0.0
+C1429,Health,App,Pune,2024-02-23,Rejected,Policy Expired,Yes,,31393,0.0
+C1430,Health,App,Delhi,2024-04-14,Approved,,Yes,2024-04-27,273137,240144.8397132318
+C1431,Motor,App,Hyderabad,2024-03-27,Rejected,Fraud Suspected,Yes,,310086,0.0
+C1432,Motor,App,Bangalore,2024-02-14,Approved,,Yes,2024-02-23,359403,359403.0
+C1433,Health,Web,Hyderabad,2024-01-23,Rejected,Missing Documents,No,,191770,0.0
+C1434,Health,Web,Chennai,2024-04-23,Approved,,Yes,2024-05-09,130604,119299.76858590214
+C1435,Motor,Web,Delhi,2024-01-28,Rejected,Invalid Information,Yes,,320475,0.0
+C1436,Health,App,Delhi,2024-04-16,Approved,,Yes,2024-04-27,319533,286177.06905423396
+C1437,Life,Web,Mumbai,2024-04-20,Rejected,Missing Documents,No,,288466,0.0
+C1438,Motor,App,Bangalore,2024-02-26,Approved,,Yes,2024-03-04,374802,374802.0
+C1439,Health,App,Chennai,2024-01-26,Approved,,Yes,2024-02-06,25365,22146.339300438354
+C1440,Health,App,Delhi,2024-01-25,Approved,,Yes,2024-02-10,163571,144111.38178163682
+C1441,Life,App,Delhi,2024-02-23,Rejected,Coverage Limit Exceeded,Yes,,177106,0.0
+C1442,Health,Web,Chennai,2024-01-29,Approved,,Yes,2024-02-12,63382,51999.12743761196
+C1443,Health,Web,Hyderabad,2024-03-23,Rejected,Missing Documents,No,,8771,0.0
+C1444,Life,Web,Hyderabad,2024-04-06,Rejected,Missing Documents,No,,455015,0.0
+C1445,Life,App,Bangalore,2024-02-05,Approved,,Yes,2024-02-27,129891,129891.0
+C1446,Life,App,Mumbai,2024-01-14,Approved,,Yes,2024-02-04,485674,485674.0
+C1447,Motor,App,Delhi,2024-03-18,Rejected,Policy Expired,Yes,,94031,0.0
+C1448,Health,App,Mumbai,2024-02-04,Rejected,Fraud Suspected,Yes,,425065,0.0
+C1449,Health,App,Hyderabad,2024-01-30,Rejected,Missing Documents,No,,7765,0.0
+C1450,Motor,App,Hyderabad,2024-04-01,Approved,,Yes,2024-04-08,498377,498377.0
+C1451,Motor,App,Pune,2024-01-17,Approved,,Yes,2024-01-20,371047,371047.0
+C1452,Health,App,Bangalore,2024-03-07,Approved,,Yes,2024-03-20,423973,390226.7040548794
+C1453,Life,Web,Pune,2024-03-20,Rejected,Missing Documents,No,,412922,0.0
+C1454,Health,Web,Pune,2024-04-19,Approved,,Yes,2024-05-05,484095,433952.9185067792
+C1455,Health,Web,Pune,2024-01-30,Rejected,Missing Documents,No,,448438,0.0
+C1456,Health,Web,Bangalore,2024-04-25,Approved,,Yes,2024-05-07,416921,386206.03787040245
+C1457,Health,App,Bangalore,2024-04-02,Rejected,Coverage Limit Exceeded,Yes,,208462,0.0
+C1458,Health,Web,Chennai,2024-02-14,Approved,,Yes,2024-03-02,419441,341241.6139695868
+C1459,Health,Web,Mumbai,2024-03-19,Rejected,Missing Documents,No,,58019,0.0
+C1460,Health,App,Mumbai,2024-04-19,Approved,,Yes,2024-05-02,335007,302266.0371386425
+C1461,Motor,App,Chennai,2024-04-29,Rejected,Missing Documents,No,,44220,0.0
+C1462,Motor,Web,Chennai,2024-03-29,Approved,,Yes,2024-04-07,431976,431976.0
+C1463,Motor,App,Hyderabad,2024-02-20,Approved,,Yes,2024-02-29,297926,297926.0
+C1464,Life,App,Pune,2024-04-11,Approved,,Yes,2024-05-01,155534,155534.0
+C1465,Health,App,Chennai,2024-04-15,Approved,,Yes,2024-04-30,51950,42384.48565619439
+C1466,Health,App,Delhi,2024-02-16,Rejected,Coverage Limit Exceeded,Yes,,403825,0.0
+C1467,Life,App,Mumbai,2024-02-22,Approved,,Yes,2024-03-18,378403,378403.0
+C1468,Health,App,Chennai,2024-03-04,Approved,,Yes,2024-03-20,182129,172259.77559359683
+C1469,Life,App,Delhi,2024-04-27,Approved,,Yes,2024-05-18,299358,299358.0
+C1470,Health,App,Delhi,2024-04-25,Rejected,Missing Documents,No,,498244,0.0
+C1471,Life,Web,Delhi,2024-02-07,Approved,,Yes,2024-03-01,138177,138177.0
+C1472,Health,App,Hyderabad,2024-03-04,Approved,,Yes,2024-03-14,173751,143888.2563762318
+C1473,Life,App,Hyderabad,2024-03-27,Rejected,Policy Expired,Yes,,282906,0.0
+C1474,Motor,App,Delhi,2024-03-29,Rejected,Missing Documents,No,,242902,0.0
+C1475,Life,Web,Hyderabad,2024-04-15,Rejected,Fraud Suspected,Yes,,353483,0.0
+C1476,Health,App,Pune,2024-01-07,Approved,,Yes,2024-01-21,72194,66811.48225871785
+C1477,Motor,App,Delhi,2024-01-22,Rejected,Invalid Information,Yes,,141213,0.0
+C1478,Life,Web,Pune,2024-03-21,Approved,,Yes,2024-04-13,321847,321847.0
+C1479,Motor,Web,Pune,2024-03-22,Approved,,Yes,2024-03-29,28290,28290.0
+C1480,Motor,App,Delhi,2024-04-22,Approved,,Yes,2024-04-30,385161,385161.0
+C1481,Motor,Web,Mumbai,2024-02-10,Rejected,Missing Documents,No,,324233,0.0
+C1482,Health,App,Delhi,2024-03-14,Approved,,Yes,2024-03-27,83006,76055.26598784233
+C1483,Motor,App,Delhi,2024-01-10,Approved,,Yes,2024-01-18,288774,288774.0
+C1484,Motor,App,Hyderabad,2024-02-26,Approved,,Yes,2024-03-02,289928,289928.0
+C1485,Life,App,Delhi,2024-01-07,Approved,,Yes,2024-01-30,345752,345752.0
+C1486,Health,Web,Mumbai,2024-04-21,Approved,,Yes,2024-05-04,386064,317119.8591051825
+C1487,Health,App,Hyderabad,2024-02-19,Approved,,Yes,2024-03-04,313533,291653.01305363997
+C1488,Life,App,Bangalore,2024-04-11,Rejected,Missing Documents,No,,386691,0.0
+C1489,Life,Web,Bangalore,2024-03-31,Rejected,Missing Documents,No,,40757,0.0
+C1490,Health,Web,Pune,2024-02-21,Rejected,Missing Documents,No,,481461,0.0
+C1491,Motor,App,Pune,2024-02-02,Approved,,Yes,2024-02-11,164978,164978.0
+C1492,Health,Web,Mumbai,2024-01-01,Rejected,Missing Documents,No,,186549,0.0
+C1493,Health,App,Chennai,2024-04-17,Approved,,Yes,2024-04-29,373987,319796.6865930506
+C1494,Health,Web,Bangalore,2024-02-22,Approved,,Yes,2024-03-05,401448,352727.551357565
+C1495,Health,Web,Pune,2024-02-29,Rejected,Missing Documents,No,,134999,0.0
+C1496,Motor,Web,Bangalore,2024-02-03,Approved,,Yes,2024-02-08,107364,107364.0
+C1497,Health,App,Mumbai,2024-01-04,Approved,,Yes,2024-01-18,16017,14459.36137351262
+C1498,Life,App,Mumbai,2024-01-17,Approved,,Yes,2024-02-08,214720,214720.0
+C1499,Life,App,Chennai,2024-01-04,Approved,,Yes,2024-01-23,267512,267512.0
+C1500,Motor,App,Chennai,2024-02-12,Approved,,Yes,2024-02-16,423712,423712.0
+C1501,Motor,App,Hyderabad,2024-04-27,Approved,,Yes,2024-05-05,42493,42493.0
+C1502,Health,Web,Mumbai,2024-03-30,Approved,,Yes,2024-04-16,415423,342821.8016604481
+C1503,Life,App,Pune,2024-01-04,Approved,,Yes,2024-01-28,104083,104083.0
+C1504,Motor,App,Bangalore,2024-01-01,Approved,,Yes,2024-01-10,228077,228077.0
+C1505,Health,Web,Delhi,2024-03-11,Rejected,Missing Documents,No,,460363,0.0
+C1506,Life,App,Chennai,2024-04-03,Approved,,Yes,2024-04-26,112338,112338.0
+C1507,Life,Web,Delhi,2024-02-19,Rejected,Missing Documents,No,,270785,0.0
+C1508,Life,App,Pune,2024-03-13,Rejected,Coverage Limit Exceeded,Yes,,454542,0.0
+C1509,Motor,App,Chennai,2024-03-01,Approved,,Yes,2024-03-05,32197,32197.0
+C1510,Motor,App,Delhi,2024-02-04,Rejected,Missing Documents,No,,113775,0.0
+C1511,Health,App,Pune,2024-01-08,Rejected,Missing Documents,No,,345321,0.0
+C1512,Life,Web,Bangalore,2024-01-24,Rejected,Missing Documents,No,,116030,0.0
+C1513,Life,App,Pune,2024-03-23,Approved,,Yes,2024-04-14,50712,50712.0
+C1514,Health,App,Hyderabad,2024-02-05,Approved,,Yes,2024-02-16,492707,453349.76349787525
+C1515,Health,App,Chennai,2024-02-19,Approved,,Yes,2024-02-29,16539,15503.497251745795
+C1516,Health,App,Mumbai,2024-04-25,Approved,,Yes,2024-05-10,63008,50778.94348048957
+C1517,Life,Web,Bangalore,2024-02-12,Rejected,Missing Documents,No,,415654,0.0
+C1518,Life,App,Delhi,2024-01-27,Rejected,Missing Documents,No,,469761,0.0
+C1519,Health,Web,Chennai,2024-02-01,Rejected,Missing Documents,No,,309516,0.0
+C1520,Motor,Web,Mumbai,2024-03-18,Approved,,Yes,2024-03-25,324586,324586.0
+C1521,Health,App,Pune,2024-01-18,Rejected,Missing Documents,No,,388814,0.0
+C1522,Life,Web,Mumbai,2024-01-28,Rejected,Missing Documents,No,,8650,0.0
+C1523,Life,App,Chennai,2024-01-29,Rejected,Missing Documents,No,,450988,0.0
+C1524,Life,App,Chennai,2024-01-16,Approved,,Yes,2024-02-04,415675,415675.0
+C1525,Health,App,Hyderabad,2024-04-08,Approved,,Yes,2024-04-19,348243,293110.4459081031
+C1526,Health,Web,Hyderabad,2024-02-16,Approved,,Yes,2024-03-05,203139,188623.19886473066
+C1527,Health,Web,Mumbai,2024-02-28,Rejected,Missing Documents,No,,95365,0.0
+C1528,Health,App,Pune,2024-01-31,Approved,,Yes,2024-02-10,251991,235180.65319149574
+C1529,Life,Web,Mumbai,2024-01-04,Approved,,Yes,2024-01-29,237284,237284.0
+C1530,Life,App,Chennai,2024-02-06,Rejected,Missing Documents,No,,227809,0.0
+C1531,Life,App,Chennai,2024-01-17,Approved,,Yes,2024-02-11,255768,255768.0
+C1532,Life,App,Delhi,2024-02-08,Approved,,Yes,2024-03-01,117223,117223.0
+C1533,Motor,Web,Hyderabad,2024-02-17,Rejected,Missing Documents,No,,406809,0.0
+C1534,Motor,Web,Delhi,2024-02-15,Rejected,Missing Documents,No,,42381,0.0
+C1535,Life,App,Bangalore,2024-03-30,Rejected,Missing Documents,No,,295218,0.0
+C1536,Life,App,Chennai,2024-02-17,Approved,,Yes,2024-03-12,186565,186565.0
+C1537,Health,App,Delhi,2024-02-08,Approved,,Yes,2024-02-18,429031,374944.96794509713
+C1538,Health,App,Mumbai,2024-04-14,Approved,,Yes,2024-04-25,192063,167790.3748338666
+C1539,Health,App,Hyderabad,2024-01-04,Approved,,Yes,2024-01-17,398348,341305.0171291357
+C1540,Life,Web,Hyderabad,2024-01-30,Rejected,Missing Documents,No,,105572,0.0
+C1541,Motor,App,Pune,2024-01-30,Approved,,Yes,2024-02-04,335515,335515.0
+C1542,Health,App,Mumbai,2024-01-22,Approved,,Yes,2024-02-02,341033,322386.06705577305
+C1543,Motor,App,Pune,2024-03-15,Rejected,Invalid Information,Yes,,170803,0.0
+C1544,Motor,Web,Delhi,2024-03-06,Rejected,Missing Documents,No,,104270,0.0
+C1545,Health,Web,Bangalore,2024-04-17,Rejected,Fraud Suspected,Yes,,164277,0.0
+C1546,Health,App,Mumbai,2024-01-12,Rejected,Policy Expired,Yes,,326154,0.0
+C1547,Motor,Web,Mumbai,2024-04-03,Approved,,Yes,2024-04-08,399283,399283.0
+C1548,Motor,App,Mumbai,2024-02-05,Approved,,Yes,2024-02-10,446737,446737.0
+C1549,Motor,App,Pune,2024-01-18,Approved,,Yes,2024-01-25,155635,155635.0
+C1550,Motor,App,Delhi,2024-03-30,Approved,,Yes,2024-04-02,465478,465478.0
+C1551,Life,App,Mumbai,2024-02-22,Approved,,Yes,2024-03-17,284365,284365.0
+C1552,Motor,App,Mumbai,2024-03-11,Rejected,Missing Documents,No,,394821,0.0
+C1553,Motor,Web,Hyderabad,2024-01-01,Rejected,Missing Documents,No,,460651,0.0
+C1554,Life,Web,Bangalore,2024-02-27,Rejected,Invalid Information,Yes,,445523,0.0
+C1555,Health,Web,Hyderabad,2024-03-30,Approved,,Yes,2024-04-12,212028,189422.91246775337
+C1556,Health,App,Hyderabad,2024-03-27,Approved,,Yes,2024-04-07,400955,343835.49441634037
+C1557,Health,App,Bangalore,2024-03-30,Approved,,Yes,2024-04-12,14964,12642.16963651072
+C1558,Motor,Web,Delhi,2024-04-18,Approved,,Yes,2024-04-26,425628,425628.0
+C1559,Motor,App,Hyderabad,2024-01-06,Approved,,Yes,2024-01-09,363278,363278.0
+C1560,Motor,App,Delhi,2024-03-10,Approved,,Yes,2024-03-18,89294,89294.0
+C1561,Health,App,Hyderabad,2024-02-13,Approved,,Yes,2024-02-25,336080,273137.2313769403
+C1562,Health,Web,Chennai,2024-03-12,Rejected,Missing Documents,No,,481899,0.0
+C1563,Health,App,Bangalore,2024-01-24,Approved,,Yes,2024-02-05,306033,287204.41355464
+C1564,Health,App,Hyderabad,2024-03-26,Approved,,Yes,2024-04-06,47438,38597.050184076914
+C1565,Motor,Web,Chennai,2024-01-19,Rejected,Missing Documents,No,,275013,0.0
+C1566,Health,App,Pune,2024-04-10,Approved,,Yes,2024-04-26,417984,344148.7522170624
+C1567,Health,App,Chennai,2024-01-18,Approved,,Yes,2024-01-29,292740,242399.28629442115
+C1568,Life,App,Mumbai,2024-04-04,Approved,,Yes,2024-04-26,485891,485891.0
+C1569,Health,App,Hyderabad,2024-04-10,Approved,,Yes,2024-04-24,404588,357329.3192947202
+C1570,Motor,Web,Chennai,2024-01-30,Rejected,Missing Documents,No,,200543,0.0
+C1571,Motor,App,Delhi,2024-02-11,Approved,,Yes,2024-02-14,497134,497134.0
+C1572,Health,App,Pune,2024-02-02,Approved,,Yes,2024-02-14,447726,406170.02114503563
+C1573,Motor,Web,Hyderabad,2024-03-14,Rejected,Missing Documents,No,,415949,0.0
+C1574,Life,Web,Mumbai,2024-04-10,Rejected,Missing Documents,No,,189484,0.0
+C1575,Life,Web,Chennai,2024-01-12,Approved,,Yes,2024-02-02,247840,247840.0
+C1576,Health,App,Pune,2024-04-27,Approved,,Yes,2024-05-12,122265,111449.48427143235
+C1577,Life,App,Hyderabad,2024-04-03,Approved,,Yes,2024-04-26,361691,361691.0
+C1578,Health,Web,Pune,2024-01-27,Approved,,Yes,2024-02-08,11861,9996.234475499976
+C1579,Health,Web,Mumbai,2024-02-08,Rejected,Coverage Limit Exceeded,Yes,,421740,0.0
+C1580,Health,App,Chennai,2024-01-09,Rejected,Missing Documents,No,,93720,0.0
+C1581,Life,App,Pune,2024-04-27,Approved,,Yes,2024-05-22,350941,350941.0
+C1582,Health,App,Pune,2024-01-21,Approved,,Yes,2024-02-03,485916,429558.1976999956
+C1583,Health,Web,Bangalore,2024-03-16,Approved,,Yes,2024-04-03,356910,285841.977004531
+C1584,Motor,App,Pune,2024-04-28,Approved,,Yes,2024-05-05,169909,169909.0
+C1585,Health,App,Bangalore,2024-01-29,Approved,,Yes,2024-02-11,42276,36170.2343989692
+C1586,Health,App,Chennai,2024-02-02,Approved,,Yes,2024-02-12,12233,11143.461582121772
+C1587,Health,Web,Hyderabad,2024-04-16,Approved,,Yes,2024-05-03,404472,352135.4061999223
+C1588,Health,Web,Hyderabad,2024-03-02,Approved,,Yes,2024-03-16,214272,186008.20006122466
+C1589,Health,App,Chennai,2024-04-26,Approved,,Yes,2024-05-12,393464,358976.8224076336
+C1590,Health,Web,Chennai,2024-01-15,Rejected,Coverage Limit Exceeded,Yes,,283187,0.0
+C1591,Motor,Web,Delhi,2024-01-02,Rejected,Missing Documents,No,,202008,0.0
+C1592,Health,App,Chennai,2024-02-21,Approved,,Yes,2024-03-08,269019,223781.20273268907
+C1593,Health,App,Pune,2024-04-12,Approved,,Yes,2024-04-23,163058,150468.12624372673
+C1594,Life,App,Hyderabad,2024-04-26,Rejected,Missing Documents,No,,315219,0.0
+C1595,Health,Web,Mumbai,2024-02-13,Approved,,Yes,2024-02-26,425088,355871.7143595617
+C1596,Motor,App,Hyderabad,2024-02-23,Rejected,Invalid Information,Yes,,288496,0.0
+C1597,Health,Web,Bangalore,2024-01-18,Approved,,Yes,2024-01-31,312143,283681.87157568085
+C1598,Health,Web,Hyderabad,2024-01-03,Approved,,Yes,2024-01-20,280170,246864.52777693592
+C1599,Health,App,Delhi,2024-01-07,Approved,,Yes,2024-01-20,287533,259910.21194263521
+C1600,Health,Web,Chennai,2024-02-12,Approved,,Yes,2024-02-26,174251,143018.18766287976
+C1601,Health,App,Chennai,2024-03-22,Approved,,Yes,2024-04-02,394303,335433.4900033815
+C1602,Health,App,Hyderabad,2024-04-17,Rejected,Missing Documents,No,,389822,0.0
+C1603,Health,Web,Mumbai,2024-02-07,Approved,,Yes,2024-02-20,41069,34251.962194673324
+C1604,Health,Web,Mumbai,2024-02-06,Approved,,Yes,2024-02-24,403538,347684.2265629203
+C1605,Health,App,Delhi,2024-02-27,Rejected,Missing Documents,No,,75793,0.0
+C1606,Health,Web,Bangalore,2024-02-02,Approved,,Yes,2024-02-15,125902,104460.94662826725
+C1607,Health,Web,Hyderabad,2024-04-17,Approved,,Yes,2024-04-30,486127,431600.173238605
+C1608,Motor,App,Chennai,2024-02-28,Rejected,Invalid Information,Yes,,394929,0.0
+C1609,Motor,Web,Hyderabad,2024-04-04,Rejected,Missing Documents,No,,112584,0.0
+C1610,Health,App,Delhi,2024-01-11,Approved,,Yes,2024-01-22,495643,455691.5787357371
+C1611,Motor,App,Pune,2024-03-08,Rejected,Coverage Limit Exceeded,Yes,,251549,0.0
+C1612,Motor,App,Pune,2024-03-22,Approved,,Yes,2024-03-30,202472,202472.0
+C1613,Health,Web,Delhi,2024-03-08,Rejected,Missing Documents,No,,90283,0.0
+C1614,Life,Web,Chennai,2024-04-22,Rejected,Fraud Suspected,Yes,,193726,0.0
+C1615,Life,App,Delhi,2024-04-07,Approved,,Yes,2024-05-01,427593,427593.0
+C1616,Health,App,Chennai,2024-04-02,Approved,,Yes,2024-04-12,118226,109910.03613460672
+C1617,Health,Web,Mumbai,2024-03-28,Approved,,Yes,2024-04-10,18877,16156.797296151773
+C1618,Life,App,Delhi,2024-01-22,Approved,,Yes,2024-02-13,401474,401474.0
+C1619,Motor,Web,Chennai,2024-03-06,Rejected,Missing Documents,No,,435795,0.0
+C1620,Health,Web,Delhi,2024-02-13,Rejected,Missing Documents,No,,484069,0.0
+C1621,Health,App,Delhi,2024-01-06,Approved,,Yes,2024-01-17,451848,385575.21416753106
+C1622,Health,Web,Chennai,2024-02-11,Rejected,Missing Documents,No,,106505,0.0
+C1623,Health,App,Chennai,2024-01-25,Rejected,Fraud Suspected,Yes,,218299,0.0
+C1624,Motor,Web,Bangalore,2024-04-28,Approved,,Yes,2024-05-08,401848,401848.0
+C1625,Health,Web,Delhi,2024-02-26,Rejected,Missing Documents,No,,328923,0.0
+C1626,Health,Web,Pune,2024-03-25,Approved,,Yes,2024-04-10,160075,140022.37400507552
+C1627,Motor,App,Delhi,2024-02-24,Approved,,Yes,2024-02-28,414898,414898.0
+C1628,Health,Web,Delhi,2024-01-16,Approved,,Yes,2024-02-02,470134,392378.62637486047
+C1629,Health,App,Chennai,2024-04-04,Approved,,Yes,2024-04-18,267630,247326.83418515403
+C1630,Motor,App,Delhi,2024-01-14,Approved,,Yes,2024-01-18,367709,367709.0
+C1631,Life,App,Hyderabad,2024-02-08,Rejected,Policy Expired,Yes,,426441,0.0
+C1632,Motor,App,Delhi,2024-01-28,Approved,,Yes,2024-02-01,121074,121074.0
+C1633,Motor,App,Hyderabad,2024-04-05,Rejected,Missing Documents,No,,495391,0.0
+C1634,Health,Web,Pune,2024-04-01,Approved,,Yes,2024-04-17,213472,176473.4533544857
+C1635,Health,Web,Chennai,2024-02-20,Rejected,Missing Documents,No,,62175,0.0
+C1636,Motor,App,Delhi,2024-04-28,Rejected,Missing Documents,No,,286120,0.0
+C1637,Health,Web,Hyderabad,2024-02-18,Rejected,Missing Documents,No,,251984,0.0
+C1638,Health,App,Hyderabad,2024-01-09,Approved,,Yes,2024-01-23,298257,283100.9627258934
+C1639,Health,Web,Hyderabad,2024-02-27,Rejected,Missing Documents,No,,435779,0.0
+C1640,Health,Web,Mumbai,2024-02-14,Rejected,Missing Documents,No,,251200,0.0
+C1641,Health,App,Bangalore,2024-01-22,Rejected,Coverage Limit Exceeded,Yes,,470448,0.0
+C1642,Health,Web,Pune,2024-02-01,Approved,,Yes,2024-02-16,188258,174238.33512123008
+C1643,Health,App,Delhi,2024-03-09,Approved,,Yes,2024-03-22,339716,286064.06091700407
+C1644,Health,App,Mumbai,2024-03-27,Approved,,Yes,2024-04-12,479081,440239.990259453
+C1645,Life,Web,Delhi,2024-03-09,Rejected,Missing Documents,No,,484245,0.0
+C1646,Motor,App,Delhi,2024-02-11,Approved,,Yes,2024-02-15,47531,47531.0
+C1647,Motor,App,Chennai,2024-02-22,Approved,,Yes,2024-03-01,262231,262231.0
+C1648,Motor,App,Chennai,2024-04-05,Approved,,Yes,2024-04-13,435505,435505.0
+C1649,Health,Web,Chennai,2024-02-28,Approved,,Yes,2024-03-12,251889,206736.00153986228
+C1650,Health,App,Mumbai,2024-03-14,Approved,,Yes,2024-03-30,81675,68701.88659690585
+C1651,Motor,App,Delhi,2024-02-08,Approved,,Yes,2024-02-12,175363,175363.0
+C1652,Motor,Web,Bangalore,2024-01-15,Rejected,Missing Documents,No,,325032,0.0
+C1653,Motor,Web,Pune,2024-03-11,Approved,,Yes,2024-03-21,342747,342747.0
+C1654,Health,App,Chennai,2024-01-29,Approved,,Yes,2024-02-14,250488,209958.85447666363
+C1655,Health,App,Chennai,2024-04-20,Rejected,Missing Documents,No,,261620,0.0
+C1656,Health,App,Delhi,2024-01-03,Approved,,Yes,2024-01-17,406293,331771.3372003518
+C1657,Health,App,Delhi,2024-03-23,Approved,,Yes,2024-04-04,303303,279024.7411231549
+C1658,Motor,App,Mumbai,2024-01-10,Approved,,Yes,2024-01-17,99924,99924.0
+C1659,Motor,Web,Mumbai,2024-04-01,Approved,,Yes,2024-04-11,299366,299366.0
+C1660,Health,Web,Chennai,2024-01-29,Approved,,Yes,2024-02-10,77833,63794.43074855607
+C1661,Life,Web,Delhi,2024-03-19,Approved,,Yes,2024-04-09,344330,344330.0
+C1662,Motor,App,Bangalore,2024-02-04,Approved,,Yes,2024-02-08,5801,5801.0
+C1663,Health,Web,Pune,2024-01-06,Rejected,Missing Documents,No,,315109,0.0
+C1664,Health,App,Delhi,2024-01-12,Approved,,Yes,2024-01-27,430665,377968.79604260967
+C1665,Health,Web,Delhi,2024-04-20,Approved,,Yes,2024-05-03,92948,79762.74004949773
+C1666,Health,Web,Hyderabad,2024-02-07,Approved,,Yes,2024-02-23,155641,133624.5200588359
+C1667,Health,App,Mumbai,2024-03-17,Approved,,Yes,2024-03-29,24731,21957.186501225828
+C1668,Health,Web,Pune,2024-04-02,Approved,,Yes,2024-04-15,354337,310813.02983728074
+C1669,Health,App,Chennai,2024-01-19,Approved,,Yes,2024-02-04,274756,244492.08176959146
+C1670,Health,Web,Delhi,2024-03-07,Approved,,Yes,2024-03-25,369688,334003.3312069913
+C1671,Life,App,Chennai,2024-01-08,Rejected,Policy Expired,Yes,,129746,0.0
+C1672,Health,App,Delhi,2024-01-08,Approved,,Yes,2024-01-20,436231,373214.7972000144
+C1673,Motor,Web,Chennai,2024-04-28,Approved,,Yes,2024-05-09,330145,330145.0
+C1674,Health,App,Pune,2024-03-24,Approved,,Yes,2024-04-09,77204,65410.53384825639
+C1675,Life,Web,Mumbai,2024-02-16,Approved,,Yes,2024-03-12,94506,94506.0
+C1676,Health,App,Pune,2024-01-04,Approved,,Yes,2024-01-19,490857,455706.1306180823
+C1677,Health,Web,Hyderabad,2024-02-20,Approved,,Yes,2024-03-08,380463,344557.311695475
+C1678,Life,Web,Bangalore,2024-03-25,Rejected,Invalid Information,Yes,,138558,0.0
+C1679,Life,App,Mumbai,2024-03-07,Approved,,Yes,2024-04-01,394962,394962.0
+C1680,Life,App,Pune,2024-02-14,Rejected,Missing Documents,No,,337171,0.0
+C1681,Health,App,Hyderabad,2024-01-08,Rejected,Invalid Information,Yes,,243922,0.0
+C1682,Health,App,Bangalore,2024-03-27,Approved,,Yes,2024-04-07,265115,227345.42033003474
+C1683,Motor,App,Hyderabad,2024-01-16,Approved,,Yes,2024-01-20,204783,204783.0
+C1684,Life,Web,Delhi,2024-03-17,Approved,,Yes,2024-04-12,98464,98464.0
+C1685,Motor,Web,Delhi,2024-03-07,Approved,,Yes,2024-03-15,387087,387087.0
+C1686,Motor,Web,Chennai,2024-04-21,Rejected,Missing Documents,No,,258890,0.0
+C1687,Health,Web,Mumbai,2024-01-09,Rejected,Missing Documents,No,,263901,0.0
+C1688,Motor,Web,Delhi,2024-02-29,Approved,,Yes,2024-03-07,449936,449936.0
+C1689,Health,Web,Hyderabad,2024-03-18,Approved,,Yes,2024-04-03,486247,403626.194604608
+C1690,Health,App,Mumbai,2024-03-17,Approved,,Yes,2024-03-29,243515,208669.18204700388
+C1691,Health,Web,Delhi,2024-04-26,Rejected,Missing Documents,No,,492335,0.0
+C1692,Motor,Web,Chennai,2024-03-11,Approved,,Yes,2024-03-18,310364,310364.0
+C1693,Health,App,Pune,2024-01-15,Approved,,Yes,2024-01-27,33876,30435.10815466196
+C1694,Health,App,Chennai,2024-03-11,Approved,,Yes,2024-03-22,33261,29872.09102332917
+C1695,Motor,App,Bangalore,2024-04-11,Approved,,Yes,2024-04-16,61176,61176.0
+C1696,Health,App,Delhi,2024-04-07,Approved,,Yes,2024-04-21,171465,149979.11331406768
+C1697,Motor,Web,Bangalore,2024-02-10,Approved,,Yes,2024-02-15,373781,373781.0
+C1698,Health,App,Bangalore,2024-01-22,Rejected,Coverage Limit Exceeded,Yes,,370088,0.0
+C1699,Health,App,Hyderabad,2024-01-24,Rejected,Policy Expired,Yes,,343877,0.0
+C1700,Motor,Web,Mumbai,2024-04-22,Rejected,Missing Documents,No,,443895,0.0
+C1701,Health,App,Hyderabad,2024-04-10,Approved,,Yes,2024-04-22,389755,312218.88635338173
+C1702,Health,App,Delhi,2024-02-13,Approved,,Yes,2024-02-25,239484,202105.79948665263
+C1703,Health,App,Bangalore,2024-01-01,Approved,,Yes,2024-01-16,268456,253783.58545747484
+C1704,Health,Web,Pune,2024-01-10,Rejected,Missing Documents,No,,288473,0.0
+C1705,Life,Web,Bangalore,2024-04-16,Rejected,Invalid Information,Yes,,381620,0.0
+C1706,Health,App,Pune,2024-03-20,Approved,,Yes,2024-04-02,300657,267660.79360320047
+C1707,Life,Web,Hyderabad,2024-04-19,Approved,,Yes,2024-05-15,153395,153395.0
+C1708,Health,App,Hyderabad,2024-03-12,Approved,,Yes,2024-03-22,260539,238572.03488982952
+C1709,Motor,Web,Mumbai,2024-02-25,Approved,,Yes,2024-03-04,234408,234408.0
+C1710,Motor,Web,Bangalore,2024-04-22,Rejected,Missing Documents,No,,84944,0.0
+C1711,Motor,Web,Chennai,2024-03-29,Rejected,Missing Documents,No,,467166,0.0
+C1712,Health,App,Hyderabad,2024-02-19,Rejected,Coverage Limit Exceeded,Yes,,103575,0.0
+C1713,Health,Web,Hyderabad,2024-01-12,Approved,,Yes,2024-01-28,486038,414257.082874285
+C1714,Health,Web,Mumbai,2024-03-29,Rejected,Missing Documents,No,,378045,0.0
+C1715,Life,App,Pune,2024-03-21,Rejected,Missing Documents,No,,113241,0.0
+C1716,Life,Web,Mumbai,2024-02-29,Approved,,Yes,2024-03-22,172984,172984.0
+C1717,Life,App,Bangalore,2024-01-26,Approved,,Yes,2024-02-14,26274,26274.0
+C1718,Health,Web,Delhi,2024-04-19,Approved,,Yes,2024-05-03,248768,213462.22131178353
+C1719,Motor,App,Delhi,2024-04-21,Approved,,Yes,2024-04-30,148435,148435.0
+C1720,Life,Web,Pune,2024-03-18,Rejected,Missing Documents,No,,297772,0.0
+C1721,Health,App,Hyderabad,2024-02-10,Approved,,Yes,2024-02-26,409377,339262.26363853854
+C1722,Health,App,Pune,2024-02-05,Approved,,Yes,2024-02-15,332692,270072.8569530833
+C1723,Motor,App,Hyderabad,2024-01-23,Approved,,Yes,2024-01-31,123371,123371.0
+C1724,Motor,App,Hyderabad,2024-02-12,Approved,,Yes,2024-02-15,71188,71188.0
+C1725,Life,App,Delhi,2024-01-06,Approved,,Yes,2024-01-27,151731,151731.0
+C1726,Health,App,Pune,2024-04-20,Rejected,Missing Documents,No,,255272,0.0
+C1727,Motor,App,Mumbai,2024-03-09,Rejected,Policy Expired,Yes,,471441,0.0
+C1728,Health,App,Hyderabad,2024-02-12,Approved,,Yes,2024-02-26,224499,208675.07622451833
+C1729,Health,App,Chennai,2024-01-25,Rejected,Missing Documents,No,,450021,0.0
+C1730,Health,Web,Chennai,2024-01-18,Approved,,Yes,2024-02-02,134560,123471.68783060482
+C1731,Life,App,Mumbai,2024-03-02,Approved,,Yes,2024-03-26,142521,142521.0
+C1732,Motor,Web,Chennai,2024-01-13,Rejected,Missing Documents,No,,14304,0.0
+C1733,Motor,Web,Bangalore,2024-02-12,Rejected,Missing Documents,No,,411879,0.0
+C1734,Health,Web,Hyderabad,2024-03-18,Approved,,Yes,2024-03-30,263490,245503.6114084194
+C1735,Life,App,Mumbai,2024-01-28,Approved,,Yes,2024-02-22,386448,386448.0
+C1736,Health,Web,Pune,2024-01-18,Rejected,Policy Expired,Yes,,203017,0.0
+C1737,Life,App,Hyderabad,2024-02-28,Approved,,Yes,2024-03-19,151776,151776.0
+C1738,Health,App,Mumbai,2024-02-29,Rejected,Missing Documents,No,,386785,0.0
+C1739,Health,App,Delhi,2024-03-03,Approved,,Yes,2024-03-17,147487,127946.12136224029
+C1740,Health,Web,Pune,2024-02-26,Approved,,Yes,2024-03-10,252066,236607.83638225865
+C1741,Health,App,Delhi,2024-04-01,Rejected,Fraud Suspected,Yes,,19915,0.0
+C1742,Motor,App,Hyderabad,2024-02-20,Rejected,Missing Documents,No,,70908,0.0
+C1743,Motor,Web,Pune,2024-02-25,Approved,,Yes,2024-03-07,329319,329319.0
+C1744,Health,Web,Chennai,2024-01-27,Rejected,Missing Documents,No,,212193,0.0
+C1745,Life,App,Mumbai,2024-02-01,Approved,,Yes,2024-02-23,124502,124502.0
+C1746,Health,App,Hyderabad,2024-04-20,Approved,,Yes,2024-05-02,210463,187000.39763502768
+C1747,Motor,Web,Bangalore,2024-01-09,Approved,,Yes,2024-01-15,438448,438448.0
+C1748,Life,App,Pune,2024-04-13,Rejected,Missing Documents,No,,230864,0.0
+C1749,Motor,App,Pune,2024-04-05,Rejected,Missing Documents,No,,307107,0.0
+C1750,Health,App,Hyderabad,2024-03-24,Rejected,Invalid Information,Yes,,330438,0.0
+C1751,Life,Web,Hyderabad,2024-04-01,Approved,,Yes,2024-04-28,266413,266413.0
+C1752,Motor,Web,Delhi,2024-04-06,Approved,,Yes,2024-04-14,456636,456636.0
+C1753,Health,Web,Chennai,2024-03-08,Rejected,Missing Documents,No,,305406,0.0
+C1754,Health,Web,Delhi,2024-02-15,Approved,,Yes,2024-03-04,358414,288246.82566425763
+C1755,Motor,App,Delhi,2024-04-07,Approved,,Yes,2024-04-16,486947,486947.0
+C1756,Motor,App,Chennai,2024-04-21,Approved,,Yes,2024-04-25,206002,206002.0
+C1757,Motor,App,Bangalore,2024-03-07,Approved,,Yes,2024-03-13,233163,233163.0
+C1758,Life,App,Delhi,2024-01-26,Rejected,Policy Expired,Yes,,479902,0.0
+C1759,Motor,App,Delhi,2024-01-08,Rejected,Missing Documents,No,,197828,0.0
+C1760,Health,Web,Pune,2024-01-06,Approved,,Yes,2024-01-20,484673,393731.37718738907
+C1761,Health,Web,Chennai,2024-03-20,Rejected,Missing Documents,No,,423069,0.0
+C1762,Health,Web,Mumbai,2024-01-24,Approved,,Yes,2024-02-07,73049,61536.485203025666
+C1763,Motor,App,Bangalore,2024-02-17,Approved,,Yes,2024-02-26,207646,207646.0
+C1764,Health,Web,Bangalore,2024-04-12,Approved,,Yes,2024-04-24,267508,239135.80490695947
+C1765,Motor,Web,Chennai,2024-04-03,Rejected,Missing Documents,No,,274580,0.0
+C1766,Motor,App,Hyderabad,2024-02-14,Approved,,Yes,2024-02-21,68295,68295.0
+C1767,Life,Web,Hyderabad,2024-01-13,Rejected,Policy Expired,Yes,,481322,0.0
+C1768,Health,App,Pune,2024-03-09,Approved,,Yes,2024-03-24,206068,167238.94803187496
+C1769,Life,App,Pune,2024-01-25,Approved,,Yes,2024-02-16,370278,370278.0
+C1770,Health,App,Chennai,2024-01-20,Approved,,Yes,2024-02-05,32213,28227.579123958312
+C1771,Life,App,Pune,2024-04-27,Approved,,Yes,2024-05-16,159468,159468.0
+C1772,Health,App,Bangalore,2024-03-22,Rejected,Invalid Information,Yes,,300515,0.0
+C1773,Health,Web,Bangalore,2024-04-20,Approved,,Yes,2024-05-04,204988,190426.09747876556
+C1774,Motor,Web,Mumbai,2024-03-22,Approved,,Yes,2024-03-31,451476,451476.0
+C1775,Health,Web,Hyderabad,2024-03-06,Rejected,Missing Documents,No,,325562,0.0
+C1776,Health,Web,Chennai,2024-03-14,Approved,,Yes,2024-03-28,454049,428750.85893577535
+C1777,Motor,App,Delhi,2024-04-28,Approved,,Yes,2024-05-04,428913,428913.0
+C1778,Motor,Web,Hyderabad,2024-02-14,Approved,,Yes,2024-02-23,240068,240068.0
+C1779,Motor,App,Delhi,2024-04-23,Approved,,Yes,2024-04-26,452454,452454.0
+C1780,Motor,App,Mumbai,2024-02-16,Approved,,Yes,2024-02-19,453944,453944.0
+C1781,Motor,App,Mumbai,2024-03-03,Approved,,Yes,2024-03-08,335328,335328.0
+C1782,Health,App,Pune,2024-03-16,Approved,,Yes,2024-04-01,85770,75586.01739620113
+C1783,Health,App,Mumbai,2024-04-20,Approved,,Yes,2024-05-05,182265,165887.8515213009
+C1784,Health,App,Mumbai,2024-03-17,Approved,,Yes,2024-04-01,264405,247816.89131348123
+C1785,Life,App,Delhi,2024-04-23,Approved,,Yes,2024-05-18,92238,92238.0
+C1786,Motor,Web,Pune,2024-04-20,Rejected,Missing Documents,No,,199227,0.0
+C1787,Health,App,Mumbai,2024-02-24,Approved,,Yes,2024-03-05,395166,331971.6398339475
+C1788,Health,App,Hyderabad,2024-03-15,Rejected,Coverage Limit Exceeded,Yes,,320594,0.0
+C1789,Life,App,Mumbai,2024-01-19,Rejected,Fraud Suspected,Yes,,104290,0.0
+C1790,Health,Web,Pune,2024-02-04,Approved,,Yes,2024-02-20,415506,366107.9979868812
+C1791,Motor,App,Chennai,2024-04-12,Rejected,Missing Documents,No,,242403,0.0
+C1792,Motor,App,Pune,2024-02-22,Rejected,Missing Documents,No,,314320,0.0
+C1793,Motor,App,Delhi,2024-01-26,Approved,,Yes,2024-01-30,266674,266674.0
+C1794,Health,App,Chennai,2024-04-19,Approved,,Yes,2024-05-02,90001,79343.23351736326
+C1795,Life,App,Hyderabad,2024-01-14,Approved,,Yes,2024-02-04,351997,351997.0
+C1796,Life,App,Bangalore,2024-04-27,Approved,,Yes,2024-05-22,411529,411529.0
+C1797,Motor,App,Pune,2024-02-14,Approved,,Yes,2024-02-23,143595,143595.0
+C1798,Motor,App,Delhi,2024-02-13,Approved,,Yes,2024-02-21,409189,409189.0
+C1799,Life,App,Hyderabad,2024-03-28,Approved,,Yes,2024-04-17,251848,251848.0
+C1800,Motor,Web,Chennai,2024-04-14,Rejected,Missing Documents,No,,14372,0.0
+C1801,Health,App,Hyderabad,2024-03-05,Approved,,Yes,2024-03-20,101213,90511.08396748666
+C1802,Motor,App,Pune,2024-02-20,Approved,,Yes,2024-02-29,476769,476769.0
+C1803,Motor,App,Mumbai,2024-02-12,Approved,,Yes,2024-02-17,417106,417106.0
+C1804,Health,Web,Pune,2024-04-28,Approved,,Yes,2024-05-14,490077,451303.908978973
+C1805,Motor,App,Bangalore,2024-03-26,Approved,,Yes,2024-03-30,338811,338811.0
+C1806,Life,App,Pune,2024-01-23,Approved,,Yes,2024-02-15,238913,238913.0
+C1807,Life,Web,Chennai,2024-02-25,Rejected,Missing Documents,No,,435305,0.0
+C1808,Health,App,Chennai,2024-04-27,Rejected,Invalid Information,Yes,,42361,0.0
+C1809,Health,App,Pune,2024-01-19,Approved,,Yes,2024-02-02,365704,347012.7434114281
+C1810,Life,App,Chennai,2024-03-22,Rejected,Policy Expired,Yes,,102243,0.0
+C1811,Life,Web,Mumbai,2024-03-16,Rejected,Missing Documents,No,,263430,0.0
+C1812,Health,App,Hyderabad,2024-02-24,Approved,,Yes,2024-03-05,266550,235423.32240869344
+C1813,Life,Web,Pune,2024-04-01,Approved,,Yes,2024-04-27,223712,223712.0
+C1814,Life,Web,Mumbai,2024-04-01,Approved,,Yes,2024-04-23,180746,180746.0
+C1815,Motor,App,Hyderabad,2024-02-29,Approved,,Yes,2024-03-07,173369,173369.0
+C1816,Motor,App,Hyderabad,2024-02-28,Rejected,Coverage Limit Exceeded,Yes,,342261,0.0
+C1817,Health,App,Mumbai,2024-02-02,Approved,,Yes,2024-02-15,354627,332306.4660025543
+C1818,Health,App,Delhi,2024-01-19,Approved,,Yes,2024-02-01,218968,176199.61563203824
+C1819,Health,App,Pune,2024-01-28,Rejected,Missing Documents,No,,458902,0.0
+C1820,Life,Web,Hyderabad,2024-02-21,Rejected,Missing Documents,No,,420882,0.0
+C1821,Health,Web,Hyderabad,2024-02-18,Rejected,Policy Expired,Yes,,401991,0.0
+C1822,Health,Web,Chennai,2024-02-06,Approved,,Yes,2024-02-18,238559,224803.07561423222
+C1823,Health,App,Hyderabad,2024-01-26,Approved,,Yes,2024-02-05,362851,328536.16881350346
+C1824,Motor,Web,Mumbai,2024-04-08,Approved,,Yes,2024-04-14,400324,400324.0
+C1825,Life,Web,Hyderabad,2024-04-07,Rejected,Missing Documents,No,,227426,0.0
+C1826,Health,Web,Delhi,2024-04-08,Approved,,Yes,2024-04-20,136066,128082.71090758806
+C1827,Health,App,Pune,2024-02-09,Approved,,Yes,2024-02-20,67543,54538.75372788064
+C1828,Motor,Web,Pune,2024-03-20,Approved,,Yes,2024-03-31,332370,332370.0
+C1829,Health,App,Hyderabad,2024-02-07,Rejected,Missing Documents,No,,164011,0.0
+C1830,Health,App,Bangalore,2024-03-17,Approved,,Yes,2024-03-27,17780,14565.869689167695
+C1831,Health,App,Bangalore,2024-03-27,Approved,,Yes,2024-04-10,432562,396486.2760434632
+C1832,Health,Web,Mumbai,2024-02-23,Approved,,Yes,2024-03-08,345611,284895.99807649164
+C1833,Health,Web,Bangalore,2024-01-22,Rejected,Missing Documents,No,,287488,0.0
+C1834,Health,App,Mumbai,2024-01-16,Approved,,Yes,2024-01-30,193057,160153.50508057667
+C1835,Health,App,Chennai,2024-01-28,Approved,,Yes,2024-02-07,467251,411690.9541563836
+C1836,Life,App,Mumbai,2024-04-21,Approved,,Yes,2024-05-15,412124,412124.0
+C1837,Health,App,Bangalore,2024-02-04,Approved,,Yes,2024-02-18,476503,445595.18542931176
+C1838,Motor,App,Hyderabad,2024-02-29,Approved,,Yes,2024-03-05,237061,237061.0
+C1839,Motor,App,Chennai,2024-02-14,Rejected,Fraud Suspected,Yes,,151903,0.0
+C1840,Health,Web,Bangalore,2024-02-15,Approved,,Yes,2024-02-29,369550,300585.8078308329
+C1841,Motor,App,Mumbai,2024-03-12,Approved,,Yes,2024-03-16,138692,138692.0
+C1842,Health,App,Delhi,2024-04-17,Approved,,Yes,2024-04-29,215462,175431.49540842808
+C1843,Life,App,Pune,2024-02-24,Rejected,Missing Documents,No,,22824,0.0
+C1844,Health,Web,Bangalore,2024-04-28,Approved,,Yes,2024-05-16,172932,143096.98090758442
+C1845,Health,Web,Mumbai,2024-03-26,Approved,,Yes,2024-04-11,368114,339361.3133537955
+C1846,Health,Web,Chennai,2024-03-25,Rejected,Fraud Suspected,Yes,,107192,0.0
+C1847,Life,App,Bangalore,2024-01-26,Approved,,Yes,2024-02-17,91038,91038.0
+C1848,Motor,App,Bangalore,2024-04-13,Approved,,Yes,2024-04-18,79723,79723.0
+C1849,Motor,App,Pune,2024-03-25,Approved,,Yes,2024-04-03,61888,61888.0
+C1850,Health,Web,Mumbai,2024-01-25,Approved,,Yes,2024-02-12,349620,293024.24581174296
+C1851,Motor,Web,Delhi,2024-04-14,Rejected,Missing Documents,No,,117148,0.0
+C1852,Health,Web,Chennai,2024-03-05,Rejected,Missing Documents,No,,276530,0.0
+C1853,Life,Web,Mumbai,2024-01-06,Approved,,Yes,2024-01-30,398887,398887.0
+C1854,Health,Web,Chennai,2024-01-23,Rejected,Missing Documents,No,,293999,0.0
+C1855,Health,App,Bangalore,2024-04-24,Approved,,Yes,2024-05-07,19260,15836.967915702267
+C1856,Health,Web,Pune,2024-03-04,Approved,,Yes,2024-03-19,269130,217528.74860958476
+C1857,Health,App,Pune,2024-03-27,Rejected,Missing Documents,No,,481182,0.0
+C1858,Motor,App,Hyderabad,2024-02-12,Approved,,Yes,2024-02-19,89153,89153.0
+C1859,Health,App,Delhi,2024-04-16,Rejected,Fraud Suspected,Yes,,307146,0.0
+C1860,Motor,App,Pune,2024-01-23,Approved,,Yes,2024-01-26,83947,83947.0
+C1861,Health,App,Bangalore,2024-04-05,Approved,,Yes,2024-04-18,101496,83239.95141936289
+C1862,Motor,App,Delhi,2024-01-30,Approved,,Yes,2024-02-04,375134,375134.0
+C1863,Health,App,Mumbai,2024-03-17,Approved,,Yes,2024-03-31,340076,277992.08321489225
+C1864,Health,App,Pune,2024-04-16,Approved,,Yes,2024-04-28,421037,374975.8678349869
+C1865,Motor,App,Delhi,2024-01-18,Approved,,Yes,2024-01-24,388426,388426.0
+C1866,Health,App,Bangalore,2024-03-27,Approved,,Yes,2024-04-08,352821,307631.0677268668
+C1867,Health,App,Hyderabad,2024-03-19,Approved,,Yes,2024-04-03,347059,297088.29595375154
+C1868,Life,App,Chennai,2024-04-06,Approved,,Yes,2024-05-01,147181,147181.0
+C1869,Life,Web,Chennai,2024-01-21,Rejected,Missing Documents,No,,148008,0.0
+C1870,Health,Web,Bangalore,2024-02-26,Rejected,Missing Documents,No,,150093,0.0
+C1871,Health,Web,Bangalore,2024-04-12,Rejected,Coverage Limit Exceeded,Yes,,249269,0.0
+C1872,Motor,Web,Chennai,2024-01-23,Rejected,Missing Documents,No,,461243,0.0
+C1873,Health,App,Hyderabad,2024-03-31,Rejected,Fraud Suspected,Yes,,320980,0.0
+C1874,Health,Web,Delhi,2024-02-14,Approved,,Yes,2024-02-27,65848,57019.087395613205
+C1875,Health,App,Chennai,2024-02-13,Approved,,Yes,2024-02-23,122729,105931.63151171365
+C1876,Motor,App,Bangalore,2024-03-22,Rejected,Missing Documents,No,,152522,0.0
+C1877,Motor,Web,Pune,2024-03-28,Rejected,Missing Documents,No,,442574,0.0
+C1878,Health,App,Mumbai,2024-04-24,Approved,,Yes,2024-05-08,405022,358615.5343711788
+C1879,Health,Web,Hyderabad,2024-02-16,Rejected,Missing Documents,No,,396479,0.0
+C1880,Health,Web,Hyderabad,2024-02-09,Approved,,Yes,2024-02-21,355171,334891.06620010146
+C1881,Motor,Web,Pune,2024-02-20,Approved,,Yes,2024-02-29,386856,386856.0
+C1882,Health,Web,Pune,2024-02-11,Approved,,Yes,2024-02-24,389793,351678.65741579444
+C1883,Health,App,Bangalore,2024-01-07,Approved,,Yes,2024-01-17,128168,106109.01143253822
+C1884,Motor,App,Chennai,2024-02-19,Approved,,Yes,2024-02-28,481377,481377.0
+C1885,Health,App,Delhi,2024-02-17,Approved,,Yes,2024-03-01,323505,270411.8974551765
+C1886,Motor,App,Hyderabad,2024-03-24,Rejected,Fraud Suspected,Yes,,391265,0.0
+C1887,Health,Web,Hyderabad,2024-03-31,Approved,,Yes,2024-04-13,474837,436093.5766247438
+C1888,Health,Web,Pune,2024-01-06,Rejected,Missing Documents,No,,42271,0.0
+C1889,Health,Web,Chennai,2024-03-31,Rejected,Missing Documents,No,,71433,0.0
+C1890,Motor,App,Hyderabad,2024-01-09,Rejected,Fraud Suspected,Yes,,413366,0.0
+C1891,Life,App,Delhi,2024-04-26,Approved,,Yes,2024-05-19,435246,435246.0
+C1892,Life,App,Pune,2024-04-18,Approved,,Yes,2024-05-11,27024,27024.0
+C1893,Health,App,Delhi,2024-02-26,Approved,,Yes,2024-03-09,416373,359199.2089125519
+C1894,Motor,Web,Chennai,2024-01-31,Rejected,Missing Documents,No,,137828,0.0
+C1895,Health,App,Hyderabad,2024-01-21,Approved,,Yes,2024-02-05,194123,179456.34166397896
+C1896,Health,App,Mumbai,2024-03-30,Approved,,Yes,2024-04-10,402751,362192.1522212873
+C1897,Life,App,Hyderabad,2024-02-09,Approved,,Yes,2024-03-03,464384,464384.0
+C1898,Health,Web,Chennai,2024-04-21,Approved,,Yes,2024-05-08,88583,81637.25810356448
+C1899,Health,Web,Hyderabad,2024-02-14,Rejected,Missing Documents,No,,414442,0.0
+C1900,Health,App,Hyderabad,2024-03-17,Approved,,Yes,2024-04-02,267070,229383.2615733413
+C1901,Health,App,Bangalore,2024-02-18,Approved,,Yes,2024-02-28,369709,336425.1906529569
+C1902,Health,App,Hyderabad,2024-03-27,Approved,,Yes,2024-04-11,234920,214234.60612730912
+C1903,Motor,App,Hyderabad,2024-01-20,Approved,,Yes,2024-01-25,180963,180963.0
+C1904,Health,Web,Delhi,2024-04-10,Rejected,Missing Documents,No,,78551,0.0
+C1905,Life,Web,Mumbai,2024-04-27,Rejected,Missing Documents,No,,87016,0.0
+C1906,Life,App,Delhi,2024-04-26,Approved,,Yes,2024-05-15,387984,387984.0
+C1907,Health,App,Delhi,2024-04-01,Approved,,Yes,2024-04-11,17076,14730.052034372398
+C1908,Health,Web,Pune,2024-01-17,Rejected,Missing Documents,No,,55298,0.0
+C1909,Health,App,Bangalore,2024-01-28,Approved,,Yes,2024-02-07,144190,116386.68175630849
+C1910,Motor,Web,Delhi,2024-02-10,Rejected,Missing Documents,No,,108088,0.0
+C1911,Health,App,Chennai,2024-03-06,Approved,,Yes,2024-03-20,169999,136299.58507832792
+C1912,Motor,App,Chennai,2024-01-25,Rejected,Missing Documents,No,,297164,0.0
+C1913,Health,App,Hyderabad,2024-02-27,Approved,,Yes,2024-03-09,126716,107313.44221552428
+C1914,Motor,App,Pune,2024-04-23,Rejected,Missing Documents,No,,247556,0.0
+C1915,Health,Web,Bangalore,2024-02-10,Rejected,Missing Documents,No,,165527,0.0
+C1916,Health,App,Bangalore,2024-01-06,Approved,,Yes,2024-01-16,119310,106230.84461821514
+C1917,Life,App,Hyderabad,2024-03-15,Approved,,Yes,2024-04-08,438813,438813.0
+C1918,Motor,App,Chennai,2024-02-07,Approved,,Yes,2024-02-13,153112,153112.0
+C1919,Health,App,Mumbai,2024-01-06,Rejected,Missing Documents,No,,363234,0.0
+C1920,Life,App,Pune,2024-02-14,Approved,,Yes,2024-03-08,459923,459923.0
+C1921,Health,App,Hyderabad,2024-03-15,Approved,,Yes,2024-03-25,90205,80967.1942144934
+C1922,Life,Web,Pune,2024-01-14,Rejected,Missing Documents,No,,25968,0.0
+C1923,Motor,App,Chennai,2024-03-06,Rejected,Fraud Suspected,Yes,,346603,0.0
+C1924,Health,App,Chennai,2024-02-09,Approved,,Yes,2024-02-24,334794,309912.4415394513
+C1925,Health,Web,Mumbai,2024-01-03,Rejected,Missing Documents,No,,227182,0.0
+C1926,Health,App,Mumbai,2024-04-28,Approved,,Yes,2024-05-14,350653,327543.5297151547
+C1927,Motor,Web,Bangalore,2024-04-26,Rejected,Missing Documents,No,,289257,0.0
+C1928,Motor,App,Pune,2024-04-08,Approved,,Yes,2024-04-16,247431,247431.0
+C1929,Health,Web,Pune,2024-04-06,Rejected,Missing Documents,No,,69373,0.0
+C1930,Health,Web,Chennai,2024-01-24,Approved,,Yes,2024-02-06,325991,264324.717620904
+C1931,Life,Web,Bangalore,2024-01-19,Rejected,Policy Expired,Yes,,88591,0.0
+C1932,Life,Web,Hyderabad,2024-01-18,Rejected,Missing Documents,No,,78168,0.0
+C1933,Motor,App,Pune,2024-03-04,Rejected,Fraud Suspected,Yes,,276484,0.0
+C1934,Health,Web,Bangalore,2024-04-22,Approved,,Yes,2024-05-10,24159,22377.848846655055
+C1935,Health,App,Bangalore,2024-04-25,Approved,,Yes,2024-05-10,361440,290856.8738994759
+C1936,Health,App,Chennai,2024-03-28,Approved,,Yes,2024-04-11,215126,196782.59848024178
+C1937,Life,App,Bangalore,2024-04-18,Approved,,Yes,2024-05-09,5209,5209.0
+C1938,Health,App,Mumbai,2024-02-04,Approved,,Yes,2024-02-20,114920,108565.33447404501
+C1939,Motor,App,Mumbai,2024-03-02,Rejected,Fraud Suspected,Yes,,361930,0.0
+C1940,Health,App,Delhi,2024-01-01,Approved,,Yes,2024-01-13,131812,115320.53091899834
+C1941,Motor,App,Chennai,2024-04-09,Approved,,Yes,2024-04-15,378221,378221.0
+C1942,Motor,Web,Hyderabad,2024-01-25,Rejected,Missing Documents,No,,276772,0.0
+C1943,Life,Web,Delhi,2024-02-14,Approved,,Yes,2024-03-08,107658,107658.0
+C1944,Health,App,Mumbai,2024-02-18,Approved,,Yes,2024-02-28,52850,45565.392338332436
+C1945,Health,App,Delhi,2024-04-16,Approved,,Yes,2024-04-29,366548,348038.23932406015
+C1946,Health,App,Chennai,2024-04-07,Approved,,Yes,2024-04-22,19439,15694.545603691748
+C1947,Life,App,Chennai,2024-03-29,Approved,,Yes,2024-04-20,121189,121189.0
+C1948,Life,App,Bangalore,2024-01-16,Approved,,Yes,2024-02-08,128980,128980.0
+C1949,Motor,App,Pune,2024-04-07,Approved,,Yes,2024-04-15,340689,340689.0
+C1950,Motor,App,Bangalore,2024-04-02,Approved,,Yes,2024-04-07,296909,296909.0
+C1951,Motor,Web,Chennai,2024-01-19,Rejected,Missing Documents,No,,485620,0.0
+C1952,Health,App,Mumbai,2024-01-23,Rejected,Coverage Limit Exceeded,Yes,,205722,0.0
+C1953,Life,App,Hyderabad,2024-03-23,Rejected,Coverage Limit Exceeded,Yes,,419684,0.0
+C1954,Health,App,Mumbai,2024-01-25,Rejected,Missing Documents,No,,432557,0.0
+C1955,Health,App,Bangalore,2024-01-16,Approved,,Yes,2024-02-01,182586,160923.62887183973
+C1956,Motor,App,Hyderabad,2024-02-23,Rejected,Coverage Limit Exceeded,Yes,,137232,0.0
+C1957,Health,Web,Chennai,2024-04-24,Rejected,Missing Documents,No,,220375,0.0
+C1958,Health,App,Mumbai,2024-03-13,Approved,,Yes,2024-03-24,149954,136315.18704174494
+C1959,Motor,App,Chennai,2024-01-01,Approved,,Yes,2024-01-07,491884,491884.0
+C1960,Health,Web,Hyderabad,2024-02-11,Approved,,Yes,2024-02-25,56999,48825.80758539059
+C1961,Motor,Web,Hyderabad,2024-01-19,Rejected,Policy Expired,Yes,,125385,0.0
+C1962,Health,Web,Mumbai,2024-04-06,Rejected,Missing Documents,No,,365867,0.0
+C1963,Health,App,Chennai,2024-02-03,Approved,,Yes,2024-02-13,161926,139872.241402252
+C1964,Health,Web,Delhi,2024-03-20,Approved,,Yes,2024-04-06,343264,320010.4714193764
+C1965,Health,App,Chennai,2024-04-17,Rejected,Missing Documents,No,,134651,0.0
+C1966,Motor,App,Hyderabad,2024-04-13,Rejected,Policy Expired,Yes,,252414,0.0
+C1967,Health,App,Chennai,2024-02-24,Rejected,Missing Documents,No,,495492,0.0
+C1968,Motor,App,Bangalore,2024-01-18,Approved,,Yes,2024-01-26,414142,414142.0
+C1969,Health,App,Delhi,2024-02-03,Approved,,Yes,2024-02-19,454341,395502.37079712853
+C1970,Motor,App,Pune,2024-03-29,Approved,,Yes,2024-04-05,472705,472705.0
+C1971,Life,Web,Bangalore,2024-02-14,Approved,,Yes,2024-03-10,356814,356814.0
+C1972,Motor,Web,Pune,2024-01-06,Rejected,Missing Documents,No,,398900,0.0
+C1973,Health,Web,Mumbai,2024-01-21,Approved,,Yes,2024-02-05,236704,212031.93035654674
+C1974,Health,App,Pune,2024-03-10,Approved,,Yes,2024-03-26,71770,66592.83966034035
+C1975,Health,Web,Chennai,2024-04-05,Approved,,Yes,2024-04-19,453402,380649.485042898
+C1976,Motor,App,Pune,2024-04-14,Rejected,Missing Documents,No,,286833,0.0
+C1977,Health,Web,Hyderabad,2024-02-17,Rejected,Missing Documents,No,,350395,0.0
+C1978,Health,App,Bangalore,2024-04-16,Rejected,Invalid Information,Yes,,420158,0.0
+C1979,Motor,Web,Bangalore,2024-02-08,Rejected,Missing Documents,No,,241502,0.0
+C1980,Health,App,Pune,2024-01-31,Rejected,Coverage Limit Exceeded,Yes,,53068,0.0
+C1981,Motor,Web,Bangalore,2024-04-15,Rejected,Missing Documents,No,,138964,0.0
+C1982,Health,Web,Hyderabad,2024-01-10,Approved,,Yes,2024-01-28,432867,362371.38985110883
+C1983,Health,App,Bangalore,2024-01-30,Approved,,Yes,2024-02-10,295168,254518.07211995008
+C1984,Motor,App,Pune,2024-04-25,Approved,,Yes,2024-04-28,262591,262591.0
+C1985,Health,Web,Delhi,2024-01-18,Approved,,Yes,2024-01-31,467176,419520.97918402025
+C1986,Motor,App,Delhi,2024-02-29,Approved,,Yes,2024-03-04,191256,191256.0
+C1987,Health,Web,Mumbai,2024-03-28,Approved,,Yes,2024-04-14,438396,406924.0302342373
+C1988,Health,App,Bangalore,2024-04-25,Rejected,Missing Documents,No,,72850,0.0
+C1989,Life,App,Pune,2024-03-13,Approved,,Yes,2024-04-01,278839,278839.0
+C1990,Motor,App,Bangalore,2024-04-04,Approved,,Yes,2024-04-10,415789,415789.0
+C1991,Motor,App,Chennai,2024-01-15,Approved,,Yes,2024-01-20,470636,470636.0
+C1992,Health,Web,Hyderabad,2024-01-04,Rejected,Missing Documents,No,,212167,0.0
+C1993,Motor,App,Bangalore,2024-03-03,Approved,,Yes,2024-03-11,239745,239745.0
+C1994,Health,App,Bangalore,2024-02-09,Rejected,Coverage Limit Exceeded,Yes,,250358,0.0
+C1995,Health,App,Delhi,2024-01-09,Approved,,Yes,2024-01-24,499735,402285.91536078544
+C1996,Life,App,Hyderabad,2024-04-18,Rejected,Missing Documents,No,,331824,0.0
+C1997,Health,Web,Pune,2024-01-09,Approved,,Yes,2024-01-27,24515,20699.557111107606
+C1998,Life,Web,Bangalore,2024-01-26,Approved,,Yes,2024-02-22,114388,114388.0
+C1999,Health,App,Delhi,2024-01-04,Approved,,Yes,2024-01-20,153345,129343.76292046797
+C2000,Health,Web,Mumbai,2024-03-21,Approved,,Yes,2024-04-02,396813,339750.2520817397
+C2001,Motor,Web,Hyderabad,2024-01-16,Approved,,Yes,2024-01-24,232966,232966.0
+C2002,Life,App,Delhi,2024-01-15,Approved,,Yes,2024-02-05,57870,57870.0
+C2003,Motor,Web,Delhi,2024-04-08,Rejected,Missing Documents,No,,462730,0.0
+C2004,Life,App,Delhi,2024-02-21,Approved,,Yes,2024-03-15,397561,397561.0
+C2005,Motor,App,Bangalore,2024-03-09,Approved,,Yes,2024-03-12,394363,394363.0
+C2006,Motor,Web,Bangalore,2024-04-28,Approved,,Yes,2024-05-04,270232,270232.0
+C2007,Life,App,Mumbai,2024-01-05,Approved,,Yes,2024-01-28,74109,74109.0
+C2008,Health,Web,Chennai,2024-01-20,Rejected,Missing Documents,No,,14422,0.0
+C2009,Health,Web,Chennai,2024-03-19,Approved,,Yes,2024-04-05,455415,420725.86798716895
+C2010,Health,App,Chennai,2024-01-18,Rejected,Policy Expired,Yes,,60797,0.0
+C2011,Life,Web,Hyderabad,2024-04-20,Approved,,Yes,2024-05-16,425744,425744.0
+C2012,Life,App,Hyderabad,2024-01-02,Approved,,Yes,2024-01-23,396776,396776.0
+C2013,Health,App,Mumbai,2024-04-02,Approved,,Yes,2024-04-16,35846,28914.166272788043
+C2014,Motor,Web,Hyderabad,2024-01-13,Rejected,Missing Documents,No,,445919,0.0
+C2015,Life,Web,Chennai,2024-01-04,Approved,,Yes,2024-01-28,128182,128182.0
+C2016,Health,App,Chennai,2024-02-11,Approved,,Yes,2024-02-23,83018,71796.62116104002
+C2017,Motor,App,Delhi,2024-04-18,Approved,,Yes,2024-04-21,181540,181540.0
+C2018,Life,Web,Hyderabad,2024-03-14,Approved,,Yes,2024-04-08,313979,313979.0
+C2019,Health,Web,Bangalore,2024-03-01,Approved,,Yes,2024-03-19,460071,370648.3100163518
+C2020,Motor,Web,Bangalore,2024-04-04,Approved,,Yes,2024-04-11,327176,327176.0
+C2021,Health,App,Delhi,2024-04-14,Approved,,Yes,2024-04-24,456027,421036.14810889727
+C2022,Life,App,Delhi,2024-01-08,Approved,,Yes,2024-02-02,251661,251661.0
+C2023,Life,App,Delhi,2024-03-07,Rejected,Policy Expired,Yes,,244644,0.0
+C2024,Life,Web,Bangalore,2024-04-21,Rejected,Missing Documents,No,,213590,0.0
+C2025,Health,App,Chennai,2024-03-03,Approved,,Yes,2024-03-14,65520,54475.30628418184
+C2026,Life,App,Delhi,2024-04-19,Approved,,Yes,2024-05-12,287781,287781.0
+C2027,Life,Web,Mumbai,2024-01-09,Rejected,Missing Documents,No,,386897,0.0
+C2028,Health,App,Delhi,2024-04-03,Rejected,Missing Documents,No,,277028,0.0
+C2029,Life,Web,Pune,2024-04-26,Approved,,Yes,2024-05-18,471382,471382.0
+C2030,Health,Web,Delhi,2024-01-11,Rejected,Missing Documents,No,,243117,0.0
+C2031,Motor,Web,Bangalore,2024-04-08,Rejected,Missing Documents,No,,107654,0.0
+C2032,Health,App,Hyderabad,2024-04-10,Rejected,Missing Documents,No,,205798,0.0
+C2033,Health,App,Delhi,2024-02-11,Approved,,Yes,2024-02-22,13381,12468.846292018981
+C2034,Health,Web,Hyderabad,2024-01-13,Rejected,Coverage Limit Exceeded,Yes,,309767,0.0
+C2035,Motor,Web,Pune,2024-02-05,Rejected,Policy Expired,Yes,,427397,0.0
+C2036,Health,Web,Mumbai,2024-04-29,Approved,,Yes,2024-05-12,470882,382666.1148521031
+C2037,Motor,App,Hyderabad,2024-01-13,Rejected,Invalid Information,Yes,,58546,0.0
+C2038,Health,Web,Chennai,2024-01-12,Rejected,Missing Documents,No,,382392,0.0
+C2039,Health,Web,Delhi,2024-02-06,Rejected,Missing Documents,No,,102780,0.0
+C2040,Motor,Web,Pune,2024-03-14,Approved,,Yes,2024-03-24,101382,101382.0
+C2041,Motor,Web,Pune,2024-04-29,Approved,,Yes,2024-05-06,163239,163239.0
+C2042,Health,Web,Hyderabad,2024-03-13,Approved,,Yes,2024-03-31,451300,391723.5556911381
+C2043,Motor,Web,Mumbai,2024-02-21,Rejected,Missing Documents,No,,88038,0.0
+C2044,Life,App,Bangalore,2024-03-11,Approved,,Yes,2024-04-02,274066,274066.0
+C2045,Motor,App,Delhi,2024-01-02,Rejected,Invalid Information,Yes,,336650,0.0
+C2046,Health,App,Pune,2024-04-27,Approved,,Yes,2024-05-07,462201,377004.4360325994
+C2047,Health,App,Mumbai,2024-02-25,Approved,,Yes,2024-03-10,390296,366248.2479017671
+C2048,Life,App,Chennai,2024-02-29,Approved,,Yes,2024-03-22,182132,182132.0
+C2049,Health,App,Pune,2024-01-23,Approved,,Yes,2024-02-03,230784,207919.82655688075
+C2050,Life,App,Mumbai,2024-04-12,Approved,,Yes,2024-05-04,313213,313213.0
+C2051,Motor,App,Bangalore,2024-02-09,Approved,,Yes,2024-02-17,224678,224678.0
+C2052,Life,Web,Bangalore,2024-03-04,Approved,,Yes,2024-03-26,290385,290385.0
+C2053,Motor,Web,Pune,2024-04-12,Approved,,Yes,2024-04-18,453540,453540.0
+C2054,Life,App,Pune,2024-03-25,Approved,,Yes,2024-04-14,200428,200428.0
+C2055,Health,Web,Hyderabad,2024-01-23,Approved,,Yes,2024-02-10,290509,234999.12840566828
+C2056,Motor,App,Delhi,2024-01-29,Approved,,Yes,2024-02-01,118884,118884.0
+C2057,Health,App,Mumbai,2024-03-18,Approved,,Yes,2024-03-30,87001,73111.97194291954
+C2058,Health,App,Pune,2024-03-30,Approved,,Yes,2024-04-15,132424,111268.12755988126
+C2059,Motor,App,Delhi,2024-02-20,Approved,,Yes,2024-02-26,469416,469416.0
+C2060,Life,Web,Hyderabad,2024-03-09,Approved,,Yes,2024-04-01,223816,223816.0
+C2061,Life,Web,Delhi,2024-04-28,Rejected,Missing Documents,No,,446210,0.0
+C2062,Motor,App,Pune,2024-04-04,Rejected,Policy Expired,Yes,,268199,0.0
+C2063,Health,App,Bangalore,2024-03-29,Rejected,Missing Documents,No,,86214,0.0
+C2064,Health,App,Mumbai,2024-01-31,Approved,,Yes,2024-02-15,403471,336967.92450512183
+C2065,Motor,App,Mumbai,2024-02-19,Approved,,Yes,2024-02-28,303307,303307.0
+C2066,Health,App,Bangalore,2024-01-20,Approved,,Yes,2024-02-01,286620,270812.3269427323
+C2067,Health,App,Pune,2024-04-17,Approved,,Yes,2024-04-27,376215,326317.0447757654
+C2068,Health,Web,Mumbai,2024-02-24,Approved,,Yes,2024-03-08,452392,411635.3317018485
+C2069,Health,Web,Pune,2024-03-21,Rejected,Missing Documents,No,,88030,0.0
+C2070,Health,App,Hyderabad,2024-04-18,Approved,,Yes,2024-05-01,485078,426835.3952784744
+C2071,Health,Web,Pune,2024-01-02,Rejected,Missing Documents,No,,119360,0.0
+C2072,Health,App,Delhi,2024-01-25,Rejected,Policy Expired,Yes,,141817,0.0
+C2073,Health,App,Bangalore,2024-01-13,Approved,,Yes,2024-01-25,197608,170410.44958373415
+C2074,Life,App,Pune,2024-04-12,Approved,,Yes,2024-05-06,23325,23325.0
+C2075,Health,Web,Hyderabad,2024-04-01,Approved,,Yes,2024-04-17,22669,18592.51343362198
+C2076,Health,Web,Chennai,2024-04-15,Approved,,Yes,2024-04-28,55812,50913.66302774036
+C2077,Motor,Web,Bangalore,2024-04-28,Approved,,Yes,2024-05-04,447105,447105.0
+C2078,Health,App,Mumbai,2024-03-10,Approved,,Yes,2024-03-22,108235,101372.5170228278
+C2079,Life,Web,Delhi,2024-03-07,Rejected,Missing Documents,No,,255168,0.0
+C2080,Motor,App,Mumbai,2024-02-27,Approved,,Yes,2024-03-05,351929,351929.0
+C2081,Health,Web,Hyderabad,2024-04-08,Approved,,Yes,2024-04-22,144728,126262.04710941098
+C2082,Health,App,Hyderabad,2024-03-22,Approved,,Yes,2024-04-01,111898,92400.50065192666
+C2083,Life,App,Mumbai,2024-03-15,Approved,,Yes,2024-04-07,353756,353756.0
+C2084,Life,App,Bangalore,2024-04-27,Approved,,Yes,2024-05-16,27462,27462.0
+C2085,Health,Web,Mumbai,2024-03-24,Rejected,Invalid Information,Yes,,93952,0.0
+C2086,Motor,App,Pune,2024-03-04,Approved,,Yes,2024-03-07,486483,486483.0
+C2087,Health,Web,Mumbai,2024-03-09,Approved,,Yes,2024-03-25,329787,297540.12765303004
+C2088,Life,App,Delhi,2024-03-23,Approved,,Yes,2024-04-11,148452,148452.0
+C2089,Health,Web,Delhi,2024-03-26,Approved,,Yes,2024-04-08,383492,347263.22353493434
+C2090,Life,Web,Chennai,2024-02-28,Rejected,Missing Documents,No,,165389,0.0
+C2091,Motor,Web,Delhi,2024-02-29,Approved,,Yes,2024-03-10,60486,60486.0
+C2092,Motor,App,Mumbai,2024-03-23,Approved,,Yes,2024-04-01,243680,243680.0
+C2093,Motor,App,Delhi,2024-04-20,Approved,,Yes,2024-04-26,103938,103938.0
+C2094,Health,App,Bangalore,2024-03-02,Rejected,Missing Documents,No,,129279,0.0
+C2095,Health,Web,Delhi,2024-01-16,Rejected,Missing Documents,No,,163818,0.0
+C2096,Health,App,Pune,2024-03-28,Approved,,Yes,2024-04-09,170229,156184.00337186636
+C2097,Health,App,Bangalore,2024-04-14,Rejected,Missing Documents,No,,301161,0.0
+C2098,Motor,App,Chennai,2024-03-08,Approved,,Yes,2024-03-11,396342,396342.0
+C2099,Health,App,Pune,2024-01-15,Rejected,Fraud Suspected,Yes,,493850,0.0
+C2100,Health,Web,Mumbai,2024-03-29,Approved,,Yes,2024-04-10,475555,437693.26648808713
+C2101,Life,App,Mumbai,2024-04-17,Approved,,Yes,2024-05-09,257856,257856.0
+C2102,Life,Web,Mumbai,2024-02-24,Approved,,Yes,2024-03-18,376178,376178.0
+C2103,Life,App,Pune,2024-02-04,Rejected,Fraud Suspected,Yes,,164423,0.0
+C2104,Life,App,Pune,2024-02-24,Rejected,Policy Expired,Yes,,473361,0.0
+C2105,Health,App,Pune,2024-01-14,Rejected,Fraud Suspected,Yes,,13720,0.0
+C2106,Health,App,Bangalore,2024-02-18,Rejected,Missing Documents,No,,84993,0.0
+C2107,Motor,App,Hyderabad,2024-03-23,Rejected,Invalid Information,Yes,,403608,0.0
+C2108,Motor,Web,Bangalore,2024-04-11,Rejected,Missing Documents,No,,55385,0.0
+C2109,Health,App,Mumbai,2024-04-09,Approved,,Yes,2024-04-23,142116,128380.4882799953
+C2110,Life,Web,Hyderabad,2024-01-07,Approved,,Yes,2024-01-30,248234,248234.0
+C2111,Health,App,Delhi,2024-01-30,Rejected,Missing Documents,No,,350252,0.0
+C2112,Health,App,Mumbai,2024-03-23,Approved,,Yes,2024-04-07,219992,180185.55556682547
+C2113,Motor,Web,Chennai,2024-02-18,Approved,,Yes,2024-02-24,164359,164359.0
+C2114,Motor,App,Bangalore,2024-03-29,Approved,,Yes,2024-04-05,230692,230692.0
+C2115,Motor,App,Pune,2024-01-16,Approved,,Yes,2024-01-22,203937,203937.0
+C2116,Health,App,Bangalore,2024-04-20,Approved,,Yes,2024-05-03,185116,168457.46251122205
+C2117,Life,App,Pune,2024-04-27,Approved,,Yes,2024-05-22,255220,255220.0
+C2118,Health,Web,Hyderabad,2024-04-13,Rejected,Missing Documents,No,,185160,0.0
+C2119,Health,App,Chennai,2024-02-20,Approved,,Yes,2024-03-03,305282,279094.5513383586
+C2120,Life,Web,Hyderabad,2024-03-12,Rejected,Coverage Limit Exceeded,Yes,,377884,0.0
+C2121,Life,Web,Chennai,2024-03-22,Approved,,Yes,2024-04-17,73447,73447.0
+C2122,Life,App,Bangalore,2024-04-01,Approved,,Yes,2024-04-24,305477,305477.0
+C2123,Life,Web,Pune,2024-03-20,Rejected,Missing Documents,No,,306841,0.0
+C2124,Motor,App,Hyderabad,2024-04-25,Approved,,Yes,2024-04-29,24340,24340.0
+C2125,Motor,Web,Chennai,2024-03-23,Approved,,Yes,2024-03-30,311468,311468.0
+C2126,Health,App,Mumbai,2024-02-11,Rejected,Fraud Suspected,Yes,,318011,0.0
+C2127,Health,Web,Mumbai,2024-01-17,Rejected,Missing Documents,No,,123171,0.0
+C2128,Health,App,Hyderabad,2024-03-03,Rejected,Missing Documents,No,,219801,0.0
+C2129,Health,App,Pune,2024-02-14,Approved,,Yes,2024-02-25,462519,387485.56262378424
+C2130,Motor,Web,Hyderabad,2024-03-17,Rejected,Missing Documents,No,,264896,0.0
+C2131,Health,Web,Bangalore,2024-01-07,Approved,,Yes,2024-01-24,470054,409606.51560277416
+C2132,Health,App,Chennai,2024-01-27,Rejected,Missing Documents,No,,314150,0.0
+C2133,Health,App,Bangalore,2024-01-10,Rejected,Fraud Suspected,Yes,,286035,0.0
+C2134,Motor,Web,Mumbai,2024-02-03,Approved,,Yes,2024-02-14,434939,434939.0
+C2135,Health,Web,Chennai,2024-02-05,Rejected,Fraud Suspected,Yes,,407460,0.0
+C2136,Life,Web,Hyderabad,2024-01-25,Approved,,Yes,2024-02-16,399962,399962.0
+C2137,Health,Web,Bangalore,2024-01-06,Rejected,Policy Expired,Yes,,347368,0.0
+C2138,Health,Web,Delhi,2024-01-24,Approved,,Yes,2024-02-11,92695,84207.80879947361
+C2139,Motor,Web,Pune,2024-01-18,Rejected,Missing Documents,No,,414074,0.0
+C2140,Life,App,Pune,2024-03-27,Approved,,Yes,2024-04-16,166577,166577.0
+C2141,Health,App,Delhi,2024-01-06,Approved,,Yes,2024-01-17,285083,257709.73838865722
+C2142,Motor,Web,Mumbai,2024-01-29,Approved,,Yes,2024-02-07,350851,350851.0
+C2143,Motor,Web,Chennai,2024-01-25,Rejected,Missing Documents,No,,85738,0.0
+C2144,Health,App,Pune,2024-02-24,Rejected,Missing Documents,No,,135613,0.0
+C2145,Life,App,Delhi,2024-03-21,Approved,,Yes,2024-04-15,201201,201201.0
+C2146,Motor,Web,Hyderabad,2024-02-15,Approved,,Yes,2024-02-26,278412,278412.0
+C2147,Motor,App,Delhi,2024-01-24,Approved,,Yes,2024-02-01,486522,486522.0
+C2148,Life,App,Mumbai,2024-03-15,Approved,,Yes,2024-04-05,29918,29918.0
+C2149,Life,App,Mumbai,2024-01-26,Approved,,Yes,2024-02-18,107201,107201.0
+C2150,Motor,App,Bangalore,2024-04-24,Approved,,Yes,2024-05-03,295690,295690.0
+C2151,Life,App,Pune,2024-04-07,Approved,,Yes,2024-04-29,87494,87494.0
+C2152,Motor,App,Bangalore,2024-01-28,Rejected,Invalid Information,Yes,,133279,0.0
+C2153,Motor,App,Delhi,2024-01-03,Approved,,Yes,2024-01-11,485628,485628.0
+C2154,Motor,Web,Chennai,2024-03-15,Rejected,Missing Documents,No,,374999,0.0
+C2155,Motor,App,Chennai,2024-02-07,Approved,,Yes,2024-02-16,146294,146294.0
+C2156,Health,Web,Mumbai,2024-03-01,Rejected,Missing Documents,No,,264013,0.0
+C2157,Life,Web,Chennai,2024-03-18,Rejected,Invalid Information,Yes,,184889,0.0
+C2158,Life,App,Chennai,2024-02-20,Approved,,Yes,2024-03-12,52632,52632.0
+C2159,Health,Web,Chennai,2024-03-30,Approved,,Yes,2024-04-13,218807,193244.51494559087
+C2160,Life,App,Delhi,2024-02-17,Approved,,Yes,2024-03-11,218408,218408.0
+C2161,Health,Web,Chennai,2024-01-21,Rejected,Missing Documents,No,,28086,0.0
+C2162,Health,App,Hyderabad,2024-02-23,Approved,,Yes,2024-03-05,68083,58922.1064758235
+C2163,Motor,Web,Chennai,2024-02-25,Rejected,Missing Documents,No,,143355,0.0
+C2164,Health,Web,Chennai,2024-04-12,Rejected,Missing Documents,No,,267399,0.0
+C2165,Life,App,Bangalore,2024-04-03,Approved,,Yes,2024-04-24,302194,302194.0
+C2166,Life,App,Delhi,2024-02-28,Rejected,Missing Documents,No,,66596,0.0
+C2167,Motor,Web,Mumbai,2024-03-12,Approved,,Yes,2024-03-17,330007,330007.0
+C2168,Health,Web,Bangalore,2024-02-20,Approved,,Yes,2024-03-07,245515,224533.6740353705
+C2169,Health,App,Pune,2024-01-20,Approved,,Yes,2024-02-04,439758,359266.8772814312
+C2170,Motor,Web,Delhi,2024-04-21,Approved,,Yes,2024-05-01,193088,193088.0
+C2171,Life,App,Hyderabad,2024-04-05,Approved,,Yes,2024-04-29,265705,265705.0
+C2172,Motor,Web,Delhi,2024-03-26,Approved,,Yes,2024-04-02,351534,351534.0
+C2173,Health,App,Pune,2024-02-28,Approved,,Yes,2024-03-13,420191,377934.8861618373
+C2174,Motor,Web,Pune,2024-03-11,Rejected,Missing Documents,No,,26213,0.0
+C2175,Motor,App,Pune,2024-01-09,Approved,,Yes,2024-01-15,485447,485447.0
+C2176,Motor,App,Mumbai,2024-04-18,Approved,,Yes,2024-04-26,253966,253966.0
+C2177,Health,App,Chennai,2024-01-01,Approved,,Yes,2024-01-13,376427,311056.69506850874
+C2178,Motor,App,Delhi,2024-01-29,Approved,,Yes,2024-02-03,293988,293988.0
+C2179,Motor,App,Chennai,2024-03-03,Approved,,Yes,2024-03-10,462141,462141.0
+C2180,Life,App,Chennai,2024-03-12,Rejected,Missing Documents,No,,352692,0.0
+C2181,Health,Web,Hyderabad,2024-02-25,Rejected,Missing Documents,No,,191381,0.0
+C2182,Motor,App,Pune,2024-04-27,Approved,,Yes,2024-05-06,444844,444844.0
+C2183,Life,App,Mumbai,2024-03-08,Approved,,Yes,2024-04-01,430658,430658.0
+C2184,Health,App,Hyderabad,2024-02-04,Approved,,Yes,2024-02-20,314794,273186.8714319389
+C2185,Life,App,Bangalore,2024-01-03,Rejected,Coverage Limit Exceeded,Yes,,315279,0.0
+C2186,Motor,App,Mumbai,2024-04-27,Approved,,Yes,2024-05-02,434791,434791.0
+C2187,Health,App,Chennai,2024-04-18,Approved,,Yes,2024-04-29,225782,194818.97067990073
+C2188,Health,App,Mumbai,2024-04-13,Approved,,Yes,2024-04-25,84876,67920.90824151132
+C2189,Motor,App,Pune,2024-01-07,Rejected,Invalid Information,Yes,,248722,0.0
+C2190,Health,App,Bangalore,2024-01-27,Approved,,Yes,2024-02-09,191061,158346.65998376755
+C2191,Motor,App,Pune,2024-01-01,Approved,,Yes,2024-01-07,467574,467574.0
+C2192,Health,App,Bangalore,2024-03-31,Approved,,Yes,2024-04-14,401904,354253.84312271397
+C2193,Motor,App,Hyderabad,2024-03-20,Approved,,Yes,2024-03-23,42805,42805.0
+C2194,Health,Web,Chennai,2024-04-11,Rejected,Missing Documents,No,,158775,0.0
+C2195,Life,App,Bangalore,2024-03-11,Approved,,Yes,2024-04-05,479830,479830.0
+C2196,Life,Web,Bangalore,2024-02-13,Approved,,Yes,2024-03-11,184340,184340.0
+C2197,Life,App,Bangalore,2024-03-27,Rejected,Missing Documents,No,,47039,0.0
+C2198,Motor,Web,Mumbai,2024-02-10,Rejected,Missing Documents,No,,307905,0.0
+C2199,Health,Web,Hyderabad,2024-03-15,Approved,,Yes,2024-03-31,123998,111950.4113568147
+C2200,Motor,App,Mumbai,2024-02-11,Approved,,Yes,2024-02-19,318588,318588.0
+C2201,Health,Web,Chennai,2024-04-26,Approved,,Yes,2024-05-10,129078,108972.76817209368
+C2202,Health,App,Bangalore,2024-02-02,Approved,,Yes,2024-02-13,372375,322677.815816754
+C2203,Health,App,Hyderabad,2024-02-19,Approved,,Yes,2024-03-04,453477,368577.06854434847
+C2204,Health,Web,Hyderabad,2024-03-03,Rejected,Missing Documents,No,,400252,0.0
+C2205,Motor,Web,Delhi,2024-04-09,Approved,,Yes,2024-04-18,37844,37844.0
+C2206,Motor,App,Chennai,2024-02-06,Approved,,Yes,2024-02-12,28052,28052.0
+C2207,Health,App,Hyderabad,2024-04-14,Rejected,Coverage Limit Exceeded,Yes,,356716,0.0
+C2208,Health,App,Bangalore,2024-02-28,Approved,,Yes,2024-03-12,7419,6824.632113134318
+C2209,Life,App,Bangalore,2024-03-21,Rejected,Missing Documents,No,,415356,0.0
+C2210,Health,Web,Hyderabad,2024-04-08,Rejected,Missing Documents,No,,181282,0.0
+C2211,Health,App,Mumbai,2024-02-17,Approved,,Yes,2024-03-02,67112,55402.39293681541
+C2212,Health,App,Chennai,2024-01-05,Approved,,Yes,2024-01-21,350182,294886.6292948477
+C2213,Motor,App,Bangalore,2024-02-17,Rejected,Missing Documents,No,,196196,0.0
+C2214,Motor,App,Hyderabad,2024-04-05,Approved,,Yes,2024-04-08,491772,491772.0
+C2215,Health,App,Bangalore,2024-01-03,Approved,,Yes,2024-01-13,439516,409897.58568996005
+C2216,Health,Web,Hyderabad,2024-04-25,Approved,,Yes,2024-05-13,447436,367916.6063359862
+C2217,Motor,Web,Chennai,2024-02-16,Approved,,Yes,2024-02-23,182043,182043.0
+C2218,Motor,Web,Hyderabad,2024-03-02,Approved,,Yes,2024-03-10,316869,316869.0
+C2219,Health,App,Delhi,2024-04-08,Approved,,Yes,2024-04-24,277409,242216.12875250197
+C2220,Life,Web,Hyderabad,2024-04-25,Rejected,Missing Documents,No,,478050,0.0
+C2221,Health,Web,Hyderabad,2024-01-14,Rejected,Missing Documents,No,,496422,0.0
+C2222,Health,Web,Chennai,2024-03-03,Rejected,Missing Documents,No,,51104,0.0
+C2223,Life,App,Hyderabad,2024-04-21,Rejected,Missing Documents,No,,381564,0.0
+C2224,Health,App,Chennai,2024-03-01,Approved,,Yes,2024-03-15,329792,271361.49494557624
+C2225,Motor,App,Delhi,2024-01-31,Approved,,Yes,2024-02-07,259547,259547.0
+C2226,Health,App,Chennai,2024-04-04,Approved,,Yes,2024-04-17,60781,55957.369583641484
+C2227,Health,App,Bangalore,2024-01-17,Approved,,Yes,2024-02-01,259927,239251.5821138641
+C2228,Life,App,Chennai,2024-01-24,Approved,,Yes,2024-02-15,8823,8823.0
+C2229,Health,App,Delhi,2024-04-25,Rejected,Missing Documents,No,,408436,0.0
+C2230,Life,Web,Pune,2024-01-23,Rejected,Fraud Suspected,Yes,,442261,0.0
+C2231,Health,App,Hyderabad,2024-03-22,Rejected,Missing Documents,No,,110935,0.0
+C2232,Health,App,Chennai,2024-02-19,Approved,,Yes,2024-03-02,149854,138499.84919305064
+C2233,Health,Web,Hyderabad,2024-04-27,Approved,,Yes,2024-05-13,27072,25238.635975172627
+C2234,Motor,Web,Mumbai,2024-03-18,Approved,,Yes,2024-03-24,133259,133259.0
+C2235,Health,Web,Bangalore,2024-04-23,Rejected,Missing Documents,No,,180050,0.0
+C2236,Life,Web,Bangalore,2024-03-19,Approved,,Yes,2024-04-09,301437,301437.0
+C2237,Health,App,Mumbai,2024-03-19,Approved,,Yes,2024-04-03,438858,416870.09082378016
+C2238,Life,Web,Mumbai,2024-03-10,Approved,,Yes,2024-04-03,105804,105804.0
+C2239,Health,App,Chennai,2024-01-27,Approved,,Yes,2024-02-07,479706,406264.1625764733
+C2240,Life,App,Mumbai,2024-01-15,Rejected,Policy Expired,Yes,,474054,0.0
+C2241,Motor,App,Pune,2024-02-19,Approved,,Yes,2024-02-22,72396,72396.0
+C2242,Motor,App,Hyderabad,2024-02-05,Approved,,Yes,2024-02-11,80010,80010.0
+C2243,Life,App,Hyderabad,2024-04-28,Approved,,Yes,2024-05-21,342850,342850.0
+C2244,Motor,Web,Delhi,2024-01-08,Approved,,Yes,2024-01-13,493968,493968.0
+C2245,Motor,Web,Mumbai,2024-03-19,Approved,,Yes,2024-03-30,125601,125601.0
+C2246,Health,App,Mumbai,2024-01-03,Approved,,Yes,2024-01-18,98449,91745.56318909564
+C2247,Health,App,Pune,2024-03-02,Approved,,Yes,2024-03-14,484336,422924.9722093589
+C2248,Life,Web,Bangalore,2024-02-16,Approved,,Yes,2024-03-14,26300,26300.0
+C2249,Motor,Web,Bangalore,2024-03-17,Approved,,Yes,2024-03-24,95045,95045.0
+C2250,Motor,App,Hyderabad,2024-04-14,Approved,,Yes,2024-04-18,224162,224162.0
+C2251,Health,Web,Hyderabad,2024-04-07,Approved,,Yes,2024-04-23,181512,168203.2188287706
+C2252,Health,App,Chennai,2024-03-28,Approved,,Yes,2024-04-08,73147,67669.51399717727
+C2253,Health,App,Pune,2024-04-13,Approved,,Yes,2024-04-24,64622,55870.50345227666
+C2254,Motor,Web,Delhi,2024-04-05,Approved,,Yes,2024-04-14,44328,44328.0
+C2255,Health,App,Delhi,2024-03-01,Approved,,Yes,2024-03-13,81394,71899.85621101131
+C2256,Health,App,Pune,2024-02-01,Rejected,Missing Documents,No,,494946,0.0
+C2257,Health,Web,Delhi,2024-04-03,Approved,,Yes,2024-04-17,444575,384001.8172388231
+C2258,Health,Web,Bangalore,2024-04-25,Approved,,Yes,2024-05-07,267128,231699.40916491757
+C2259,Motor,App,Delhi,2024-04-22,Rejected,Coverage Limit Exceeded,Yes,,109697,0.0
+C2260,Health,App,Delhi,2024-01-13,Approved,,Yes,2024-01-25,154177,128609.32720634117
+C2261,Motor,App,Pune,2024-01-01,Approved,,Yes,2024-01-08,386059,386059.0
+C2262,Health,Web,Pune,2024-02-03,Approved,,Yes,2024-02-16,223220,194819.67166599905
+C2263,Health,App,Delhi,2024-03-02,Rejected,Missing Documents,No,,89242,0.0
+C2264,Health,App,Mumbai,2024-03-19,Approved,,Yes,2024-04-03,17809,14282.131999567358
+C2265,Health,Web,Pune,2024-04-17,Approved,,Yes,2024-04-30,269237,217958.4842955359
+C2266,Health,App,Chennai,2024-03-18,Approved,,Yes,2024-04-03,283849,228537.947816572
+C2267,Health,App,Chennai,2024-04-02,Approved,,Yes,2024-04-14,409635,336826.5793410197
+C2268,Motor,App,Bangalore,2024-04-07,Approved,,Yes,2024-04-14,226516,226516.0
+C2269,Health,Web,Delhi,2024-03-22,Rejected,Missing Documents,No,,360247,0.0
+C2270,Motor,App,Mumbai,2024-04-27,Approved,,Yes,2024-05-03,384346,384346.0
+C2271,Life,App,Bangalore,2024-03-11,Rejected,Policy Expired,Yes,,9646,0.0
+C2272,Motor,Web,Delhi,2024-04-02,Approved,,Yes,2024-04-07,57107,57107.0
+C2273,Health,App,Pune,2024-04-28,Approved,,Yes,2024-05-13,205144,175691.5194093545
+C2274,Health,App,Chennai,2024-01-31,Approved,,Yes,2024-02-13,165482,143791.34197241685
+C2275,Health,App,Hyderabad,2024-03-04,Approved,,Yes,2024-03-19,313152,280966.86733189103
+C2276,Health,App,Mumbai,2024-01-25,Approved,,Yes,2024-02-10,469981,380764.25268615386
+C2277,Life,App,Hyderabad,2024-02-07,Approved,,Yes,2024-02-29,246121,246121.0
+C2278,Health,App,Chennai,2024-01-14,Approved,,Yes,2024-01-25,20250,18767.372632913248
+C2279,Health,App,Hyderabad,2024-01-08,Approved,,Yes,2024-01-22,139511,121982.49636895454
+C2280,Motor,App,Pune,2024-03-31,Approved,,Yes,2024-04-09,468723,468723.0
+C2281,Motor,Web,Delhi,2024-02-23,Approved,,Yes,2024-03-02,431802,431802.0
+C2282,Motor,Web,Pune,2024-01-02,Approved,,Yes,2024-01-08,204867,204867.0
+C2283,Health,Web,Hyderabad,2024-03-21,Approved,,Yes,2024-04-03,288071,272691.971377677
+C2284,Health,Web,Pune,2024-04-10,Approved,,Yes,2024-04-23,118528,96969.7632852333
+C2285,Motor,App,Chennai,2024-03-18,Approved,,Yes,2024-03-23,253342,253342.0
+C2286,Health,Web,Mumbai,2024-03-29,Approved,,Yes,2024-04-14,292858,235638.31357319318
+C2287,Health,App,Pune,2024-02-25,Approved,,Yes,2024-03-10,165322,155358.82784373037
+C2288,Health,Web,Chennai,2024-04-03,Rejected,Missing Documents,No,,312172,0.0
+C2289,Health,Web,Mumbai,2024-04-02,Approved,,Yes,2024-04-17,312674,267082.99100926815
+C2290,Health,Web,Delhi,2024-03-24,Approved,,Yes,2024-04-11,236832,204302.1421556845
+C2291,Health,Web,Hyderabad,2024-03-25,Rejected,Missing Documents,No,,173157,0.0
+C2292,Motor,App,Delhi,2024-03-01,Approved,,Yes,2024-03-04,123643,123643.0
+C2293,Motor,App,Bangalore,2024-04-26,Approved,,Yes,2024-04-29,230956,230956.0
+C2294,Life,App,Chennai,2024-01-22,Approved,,Yes,2024-02-10,106422,106422.0
+C2295,Health,App,Mumbai,2024-02-04,Approved,,Yes,2024-02-19,282845,243730.82874906834
+C2296,Health,App,Pune,2024-04-10,Rejected,Missing Documents,No,,122556,0.0
+C2297,Health,Web,Delhi,2024-01-16,Rejected,Invalid Information,Yes,,205935,0.0
+C2298,Motor,Web,Mumbai,2024-02-19,Rejected,Missing Documents,No,,209222,0.0
+C2299,Motor,App,Chennai,2024-04-22,Approved,,Yes,2024-04-26,446908,446908.0
+C2300,Health,Web,Bangalore,2024-02-12,Rejected,Missing Documents,No,,165786,0.0
+C2301,Life,Web,Delhi,2024-01-17,Rejected,Invalid Information,Yes,,263466,0.0
+C2302,Health,Web,Hyderabad,2024-03-20,Rejected,Invalid Information,Yes,,263308,0.0
+C2303,Motor,Web,Mumbai,2024-02-27,Rejected,Missing Documents,No,,293927,0.0
+C2304,Motor,App,Hyderabad,2024-04-28,Approved,,Yes,2024-05-04,11163,11163.0
+C2305,Life,Web,Mumbai,2024-01-02,Rejected,Fraud Suspected,Yes,,385113,0.0
+C2306,Motor,Web,Mumbai,2024-01-04,Approved,,Yes,2024-01-11,372847,372847.0
+C2307,Life,App,Chennai,2024-03-25,Rejected,Invalid Information,Yes,,26101,0.0
+C2308,Health,App,Chennai,2024-02-08,Approved,,Yes,2024-02-23,171020,150205.19763314858
+C2309,Life,Web,Chennai,2024-04-07,Approved,,Yes,2024-05-04,419287,419287.0
+C2310,Health,App,Pune,2024-04-03,Rejected,Coverage Limit Exceeded,Yes,,349352,0.0
+C2311,Life,Web,Mumbai,2024-01-06,Rejected,Fraud Suspected,Yes,,280875,0.0
+C2312,Motor,Web,Delhi,2024-03-21,Approved,,Yes,2024-04-01,54116,54116.0
+C2313,Life,App,Hyderabad,2024-04-12,Approved,,Yes,2024-05-07,489405,489405.0
+C2314,Health,App,Chennai,2024-03-29,Approved,,Yes,2024-04-12,294596,252974.92935384522
+C2315,Motor,Web,Chennai,2024-03-09,Approved,,Yes,2024-03-17,91711,91711.0
+C2316,Motor,App,Hyderabad,2024-03-09,Approved,,Yes,2024-03-18,48372,48372.0
+C2317,Motor,App,Hyderabad,2024-01-20,Approved,,Yes,2024-01-27,242159,242159.0
+C2318,Health,App,Mumbai,2024-03-04,Rejected,Missing Documents,No,,375480,0.0
+C2319,Health,App,Chennai,2024-01-16,Approved,,Yes,2024-01-29,462181,370324.76736456977
+C2320,Health,Web,Hyderabad,2024-02-20,Rejected,Policy Expired,Yes,,38298,0.0
+C2321,Health,App,Pune,2024-04-14,Approved,,Yes,2024-04-28,88721,83221.81264476954
+C2322,Life,Web,Pune,2024-02-06,Rejected,Policy Expired,Yes,,461791,0.0
+C2323,Health,App,Chennai,2024-04-13,Rejected,Fraud Suspected,Yes,,126764,0.0
+C2324,Life,App,Hyderabad,2024-03-13,Approved,,Yes,2024-04-01,23013,23013.0
+C2325,Health,Web,Mumbai,2024-03-09,Approved,,Yes,2024-03-26,107261,99069.15564097233
+C2326,Health,Web,Mumbai,2024-02-11,Rejected,Missing Documents,No,,183772,0.0
+C2327,Motor,App,Mumbai,2024-02-26,Approved,,Yes,2024-03-04,324644,324644.0
+C2328,Motor,App,Bangalore,2024-03-06,Approved,,Yes,2024-03-13,70355,70355.0
+C2329,Health,App,Chennai,2024-01-09,Rejected,Fraud Suspected,Yes,,491649,0.0
+C2330,Motor,App,Mumbai,2024-04-16,Rejected,Invalid Information,Yes,,60598,0.0
+C2331,Motor,Web,Pune,2024-04-09,Approved,,Yes,2024-04-14,189681,189681.0
+C2332,Health,App,Hyderabad,2024-03-26,Rejected,Missing Documents,No,,408552,0.0
+C2333,Life,App,Delhi,2024-03-04,Approved,,Yes,2024-03-24,308479,308479.0
+C2334,Life,App,Delhi,2024-03-26,Approved,,Yes,2024-04-20,151691,151691.0
+C2335,Motor,Web,Mumbai,2024-01-22,Approved,,Yes,2024-01-28,389474,389474.0
+C2336,Health,Web,Delhi,2024-02-03,Rejected,Missing Documents,No,,316839,0.0
+C2337,Motor,App,Delhi,2024-02-24,Approved,,Yes,2024-03-04,258800,258800.0
+C2338,Health,Web,Bangalore,2024-01-29,Approved,,Yes,2024-02-14,462291,395149.0344609478
+C2339,Health,App,Pune,2024-02-07,Rejected,Missing Documents,No,,23170,0.0
+C2340,Health,App,Pune,2024-04-19,Approved,,Yes,2024-05-01,177109,158636.61724788716
+C2341,Health,Web,Bangalore,2024-04-06,Rejected,Missing Documents,No,,79280,0.0
+C2342,Life,Web,Bangalore,2024-01-18,Approved,,Yes,2024-02-14,395503,395503.0
+C2343,Motor,Web,Delhi,2024-03-11,Approved,,Yes,2024-03-21,461798,461798.0
+C2344,Motor,App,Chennai,2024-03-05,Approved,,Yes,2024-03-11,254072,254072.0
+C2345,Health,App,Hyderabad,2024-04-06,Rejected,Policy Expired,Yes,,352962,0.0
+C2346,Health,Web,Hyderabad,2024-01-01,Approved,,Yes,2024-01-18,235314,209229.38664558044
+C2347,Health,App,Delhi,2024-03-28,Approved,,Yes,2024-04-13,384517,364140.59494362335
+C2348,Life,App,Hyderabad,2024-01-04,Approved,,Yes,2024-01-24,11021,11021.0
+C2349,Health,App,Bangalore,2024-01-04,Approved,,Yes,2024-01-19,317499,258190.4738593288
+C2350,Life,Web,Pune,2024-03-22,Rejected,Missing Documents,No,,461295,0.0
+C2351,Motor,App,Hyderabad,2024-01-27,Approved,,Yes,2024-02-02,225859,225859.0
+C2352,Health,App,Delhi,2024-02-12,Approved,,Yes,2024-02-28,470959,395569.6531004414
+C2353,Motor,Web,Chennai,2024-02-28,Approved,,Yes,2024-03-08,102819,102819.0
+C2354,Health,App,Delhi,2024-02-01,Approved,,Yes,2024-02-16,376030,301124.30830706557
+C2355,Life,App,Mumbai,2024-02-02,Approved,,Yes,2024-02-24,491625,491625.0
+C2356,Life,App,Delhi,2024-01-28,Approved,,Yes,2024-02-17,274289,274289.0
+C2357,Health,App,Bangalore,2024-04-15,Approved,,Yes,2024-05-01,160002,138814.61209857155
+C2358,Health,App,Pune,2024-04-14,Approved,,Yes,2024-04-28,203768,181106.38215394976
+C2359,Motor,App,Pune,2024-02-24,Approved,,Yes,2024-02-29,224478,224478.0
+C2360,Life,Web,Hyderabad,2024-04-09,Approved,,Yes,2024-04-30,249533,249533.0
+C2361,Health,App,Bangalore,2024-02-29,Approved,,Yes,2024-03-10,50667,45438.6621947086
+C2362,Motor,Web,Mumbai,2024-03-10,Rejected,Missing Documents,No,,395535,0.0
+C2363,Motor,App,Bangalore,2024-03-02,Approved,,Yes,2024-03-05,382207,382207.0
+C2364,Motor,App,Delhi,2024-03-20,Approved,,Yes,2024-03-26,417539,417539.0
+C2365,Health,App,Bangalore,2024-02-03,Approved,,Yes,2024-02-14,45308,40240.489153828705
+C2366,Motor,App,Bangalore,2024-03-27,Approved,,Yes,2024-04-03,63499,63499.0
+C2367,Life,Web,Mumbai,2024-04-23,Approved,,Yes,2024-05-17,457532,457532.0
+C2368,Health,App,Delhi,2024-04-15,Approved,,Yes,2024-04-29,299067,281060.6607021021
+C2369,Health,App,Chennai,2024-03-28,Rejected,Missing Documents,No,,399830,0.0
+C2370,Life,Web,Chennai,2024-02-25,Approved,,Yes,2024-03-23,132521,132521.0
+C2371,Health,Web,Pune,2024-04-22,Approved,,Yes,2024-05-04,455067,375084.2845535923
+C2372,Life,Web,Hyderabad,2024-01-13,Approved,,Yes,2024-02-08,139288,139288.0
+C2373,Health,App,Bangalore,2024-02-25,Rejected,Policy Expired,Yes,,115573,0.0
+C2374,Health,Web,Pune,2024-01-18,Rejected,Policy Expired,Yes,,23781,0.0
+C2375,Life,App,Mumbai,2024-02-23,Approved,,Yes,2024-03-15,373178,373178.0
+C2376,Health,App,Chennai,2024-03-17,Approved,,Yes,2024-03-29,266161,247765.57603254204
+C2377,Motor,App,Bangalore,2024-04-22,Approved,,Yes,2024-04-30,186510,186510.0
+C2378,Health,App,Mumbai,2024-04-10,Rejected,Coverage Limit Exceeded,Yes,,25505,0.0
+C2379,Motor,App,Hyderabad,2024-02-12,Approved,,Yes,2024-02-19,207259,207259.0
+C2380,Health,App,Mumbai,2024-02-08,Approved,,Yes,2024-02-23,219096,198361.33061214484
+C2381,Health,Web,Bangalore,2024-03-01,Rejected,Missing Documents,No,,113352,0.0
+C2382,Life,App,Hyderabad,2024-02-11,Approved,,Yes,2024-03-06,116889,116889.0
+C2383,Health,App,Mumbai,2024-03-21,Approved,,Yes,2024-04-02,357053,306917.09216713184
+C2384,Motor,App,Hyderabad,2024-03-19,Approved,,Yes,2024-03-23,310415,310415.0
+C2385,Health,Web,Bangalore,2024-01-18,Rejected,Missing Documents,No,,41534,0.0
+C2386,Motor,App,Bangalore,2024-01-23,Approved,,Yes,2024-02-01,32278,32278.0
+C2387,Health,App,Hyderabad,2024-02-23,Rejected,Missing Documents,No,,455399,0.0
+C2388,Life,Web,Delhi,2024-04-24,Approved,,Yes,2024-05-21,494058,494058.0
+C2389,Health,Web,Pune,2024-01-30,Rejected,Missing Documents,No,,26556,0.0
+C2390,Health,App,Mumbai,2024-04-07,Approved,,Yes,2024-04-23,418509,350714.60828948487
+C2391,Health,Web,Mumbai,2024-02-27,Rejected,Policy Expired,Yes,,498857,0.0
+C2392,Health,Web,Delhi,2024-03-08,Approved,,Yes,2024-03-22,264925,238172.30005643918
+C2393,Motor,Web,Delhi,2024-03-07,Rejected,Missing Documents,No,,277673,0.0
+C2394,Health,App,Delhi,2024-03-11,Approved,,Yes,2024-03-27,397544,330230.12092319335
+C2395,Life,Web,Chennai,2024-04-29,Approved,,Yes,2024-05-21,274538,274538.0
+C2396,Health,App,Chennai,2024-01-18,Approved,,Yes,2024-02-01,120064,103237.75892520914
+C2397,Health,App,Hyderabad,2024-04-15,Rejected,Missing Documents,No,,225511,0.0
+C2398,Motor,App,Chennai,2024-01-07,Approved,,Yes,2024-01-13,441881,441881.0
+C2399,Motor,App,Bangalore,2024-02-09,Approved,,Yes,2024-02-18,321884,321884.0
+C2400,Health,App,Hyderabad,2024-03-10,Approved,,Yes,2024-03-22,400135,376320.9021531164
+C2401,Health,Web,Mumbai,2024-03-26,Approved,,Yes,2024-04-10,53478,45383.946917510744
+C2402,Health,App,Pune,2024-03-05,Rejected,Invalid Information,Yes,,474655,0.0
+C2403,Motor,App,Bangalore,2024-03-08,Approved,,Yes,2024-03-15,154112,154112.0
+C2404,Motor,App,Mumbai,2024-04-19,Approved,,Yes,2024-04-26,139411,139411.0
+C2405,Health,App,Mumbai,2024-02-18,Approved,,Yes,2024-02-28,475938,414707.7456162515
+C2406,Life,Web,Hyderabad,2024-02-21,Approved,,Yes,2024-03-19,401907,401907.0
+C2407,Life,App,Delhi,2024-04-23,Approved,,Yes,2024-05-17,415992,415992.0
+C2408,Motor,App,Delhi,2024-04-16,Rejected,Missing Documents,No,,386087,0.0
+C2409,Life,App,Bangalore,2024-01-29,Approved,,Yes,2024-02-18,141559,141559.0
+C2410,Health,App,Delhi,2024-01-21,Approved,,Yes,2024-02-03,475032,418155.50475016696
+C2411,Health,App,Mumbai,2024-03-30,Approved,,Yes,2024-04-10,269603,238014.51751025644
+C2412,Health,Web,Delhi,2024-03-18,Rejected,Missing Documents,No,,112761,0.0
+C2413,Health,Web,Chennai,2024-01-09,Rejected,Missing Documents,No,,87970,0.0
+C2414,Motor,App,Delhi,2024-02-16,Approved,,Yes,2024-02-20,7921,7921.0
+C2415,Life,Web,Mumbai,2024-03-16,Rejected,Missing Documents,No,,498937,0.0
+C2416,Health,Web,Hyderabad,2024-02-11,Approved,,Yes,2024-02-29,465221,400590.0073145762
+C2417,Health,Web,Bangalore,2024-02-20,Approved,,Yes,2024-03-03,225073,196842.78512033084
+C2418,Health,App,Pune,2024-02-25,Approved,,Yes,2024-03-10,414579,339507.18722200685
+C2419,Life,App,Delhi,2024-02-20,Rejected,Missing Documents,No,,398476,0.0
+C2420,Health,App,Mumbai,2024-03-10,Approved,,Yes,2024-03-21,199760,163050.9032436829
+C2421,Motor,Web,Pune,2024-01-20,Rejected,Missing Documents,No,,74837,0.0
+C2422,Health,Web,Pune,2024-03-28,Approved,,Yes,2024-04-13,92081,85459.66426342633
+C2423,Health,App,Chennai,2024-01-27,Approved,,Yes,2024-02-10,117099,98437.67986994781
+C2424,Life,App,Pune,2024-02-07,Rejected,Fraud Suspected,Yes,,482412,0.0
+C2425,Life,Web,Hyderabad,2024-03-12,Approved,,Yes,2024-04-08,398522,398522.0
+C2426,Health,Web,Mumbai,2024-03-05,Rejected,Missing Documents,No,,109332,0.0
+C2427,Life,Web,Mumbai,2024-02-23,Approved,,Yes,2024-03-21,284400,284400.0
+C2428,Motor,Web,Delhi,2024-04-22,Approved,,Yes,2024-04-28,50704,50704.0
+C2429,Life,App,Delhi,2024-04-22,Approved,,Yes,2024-05-15,172848,172848.0
+C2430,Health,App,Delhi,2024-01-24,Rejected,Missing Documents,No,,404871,0.0
+C2431,Motor,Web,Hyderabad,2024-02-16,Rejected,Missing Documents,No,,83563,0.0
+C2432,Health,App,Pune,2024-03-11,Approved,,Yes,2024-03-21,266757,221649.3405647379
+C2433,Motor,App,Pune,2024-03-23,Approved,,Yes,2024-03-28,402997,402997.0
+C2434,Health,Web,Chennai,2024-03-26,Approved,,Yes,2024-04-13,343723,305877.0473739405
+C2435,Health,App,Hyderabad,2024-03-03,Approved,,Yes,2024-03-17,442869,387584.7571177232
+C2436,Health,Web,Delhi,2024-02-26,Rejected,Missing Documents,No,,161434,0.0
+C2437,Motor,App,Bangalore,2024-02-24,Approved,,Yes,2024-02-28,421232,421232.0
+C2438,Health,Web,Chennai,2024-02-29,Rejected,Missing Documents,No,,458503,0.0
+C2439,Motor,App,Bangalore,2024-04-08,Rejected,Coverage Limit Exceeded,Yes,,163693,0.0
+C2440,Life,App,Pune,2024-03-02,Approved,,Yes,2024-03-26,255476,255476.0
+C2441,Health,Web,Chennai,2024-01-30,Rejected,Missing Documents,No,,150762,0.0
+C2442,Motor,App,Chennai,2024-04-02,Approved,,Yes,2024-04-08,172605,172605.0
+C2443,Health,Web,Mumbai,2024-01-22,Approved,,Yes,2024-02-05,192973,167356.80689465563
+C2444,Life,Web,Pune,2024-03-15,Rejected,Fraud Suspected,Yes,,110474,0.0
+C2445,Health,App,Pune,2024-03-24,Approved,,Yes,2024-04-05,486193,447116.5070770539
+C2446,Motor,App,Hyderabad,2024-01-29,Approved,,Yes,2024-02-04,71202,71202.0
+C2447,Life,App,Chennai,2024-04-24,Approved,,Yes,2024-05-17,445661,445661.0
+C2448,Life,App,Pune,2024-02-10,Approved,,Yes,2024-03-04,184693,184693.0
+C2449,Motor,Web,Chennai,2024-02-11,Rejected,Missing Documents,No,,266051,0.0
+C2450,Health,Web,Hyderabad,2024-04-07,Approved,,Yes,2024-04-24,167776,155174.5714657292
+C2451,Motor,Web,Hyderabad,2024-03-05,Approved,,Yes,2024-03-16,340483,340483.0
+C2452,Life,Web,Mumbai,2024-01-31,Approved,,Yes,2024-02-22,41051,41051.0
+C2453,Motor,App,Chennai,2024-01-30,Approved,,Yes,2024-02-07,187643,187643.0
+C2454,Health,Web,Pune,2024-04-21,Approved,,Yes,2024-05-05,462481,413917.0367289269
+C2455,Life,Web,Pune,2024-01-18,Rejected,Missing Documents,No,,321543,0.0
+C2456,Motor,Web,Chennai,2024-04-28,Rejected,Missing Documents,No,,158263,0.0
+C2457,Motor,Web,Chennai,2024-01-17,Rejected,Invalid Information,Yes,,67513,0.0
+C2458,Health,App,Chennai,2024-02-07,Approved,,Yes,2024-02-23,230295,197400.8314173349
+C2459,Motor,Web,Delhi,2024-01-14,Rejected,Missing Documents,No,,459248,0.0
+C2460,Health,App,Pune,2024-03-27,Rejected,Missing Documents,No,,86455,0.0
+C2461,Motor,App,Hyderabad,2024-03-29,Rejected,Invalid Information,Yes,,340695,0.0
+C2462,Health,App,Pune,2024-03-19,Approved,,Yes,2024-04-03,494080,464543.8212404424
+C2463,Motor,Web,Delhi,2024-04-19,Rejected,Missing Documents,No,,15652,0.0
+C2464,Life,Web,Chennai,2024-02-25,Approved,,Yes,2024-03-18,94342,94342.0
+C2465,Health,Web,Mumbai,2024-01-22,Approved,,Yes,2024-02-08,14470,12744.437390447514
+C2466,Life,Web,Chennai,2024-03-07,Approved,,Yes,2024-03-28,166860,166860.0
+C2467,Health,App,Chennai,2024-02-25,Approved,,Yes,2024-03-09,460139,369932.21974081756
+C2468,Life,Web,Delhi,2024-04-28,Rejected,Missing Documents,No,,455708,0.0
+C2469,Motor,App,Pune,2024-01-19,Approved,,Yes,2024-01-26,249413,249413.0
+C2470,Motor,App,Chennai,2024-02-26,Approved,,Yes,2024-03-03,233629,233629.0
+C2471,Motor,App,Pune,2024-02-13,Approved,,Yes,2024-02-20,40109,40109.0
+C2472,Life,Web,Bangalore,2024-04-07,Rejected,Missing Documents,No,,322952,0.0
+C2473,Health,Web,Hyderabad,2024-02-04,Approved,,Yes,2024-02-20,427122,393273.7150754641
+C2474,Health,App,Pune,2024-04-23,Approved,,Yes,2024-05-05,289305,258185.21607523138
+C2475,Motor,App,Mumbai,2024-01-01,Approved,,Yes,2024-01-06,366690,366690.0
+C2476,Life,Web,Hyderabad,2024-02-21,Approved,,Yes,2024-03-15,76942,76942.0
+C2477,Motor,App,Mumbai,2024-03-25,Approved,,Yes,2024-04-03,162998,162998.0
+C2478,Motor,Web,Chennai,2024-04-02,Rejected,Missing Documents,No,,172466,0.0
+C2479,Health,Web,Hyderabad,2024-03-10,Rejected,Policy Expired,Yes,,354060,0.0
+C2480,Life,App,Pune,2024-02-06,Approved,,Yes,2024-03-01,237321,237321.0
+C2481,Health,App,Hyderabad,2024-03-05,Approved,,Yes,2024-03-19,228674,211869.70116339566
+C2482,Motor,Web,Chennai,2024-02-20,Rejected,Missing Documents,No,,304225,0.0
+C2483,Health,Web,Delhi,2024-01-01,Approved,,Yes,2024-01-13,332736,298690.33828976355
+C2484,Health,App,Mumbai,2024-03-31,Rejected,Invalid Information,Yes,,71151,0.0
+C2485,Health,Web,Chennai,2024-01-21,Rejected,Missing Documents,No,,305889,0.0
+C2486,Health,App,Delhi,2024-02-22,Approved,,Yes,2024-03-06,357954,295096.5018164922
+C2487,Motor,App,Hyderabad,2024-01-16,Approved,,Yes,2024-01-21,306990,306990.0
+C2488,Health,Web,Hyderabad,2024-04-17,Rejected,Missing Documents,No,,261805,0.0
+C2489,Health,Web,Chennai,2024-03-01,Rejected,Missing Documents,No,,473503,0.0
+C2490,Health,App,Pune,2024-02-23,Approved,,Yes,2024-03-10,317385,292259.89059000765
+C2491,Health,Web,Hyderabad,2024-02-09,Rejected,Missing Documents,No,,295911,0.0
+C2492,Health,App,Pune,2024-01-26,Approved,,Yes,2024-02-06,72438,58818.095952583426
+C2493,Health,App,Pune,2024-03-20,Approved,,Yes,2024-04-02,32690,29358.55242384395
+C2494,Motor,App,Pune,2024-04-01,Rejected,Missing Documents,No,,345716,0.0
+C2495,Motor,Web,Bangalore,2024-03-05,Rejected,Fraud Suspected,Yes,,314750,0.0
+C2496,Motor,App,Delhi,2024-04-09,Approved,,Yes,2024-04-18,53115,53115.0
+C2497,Health,App,Delhi,2024-03-14,Approved,,Yes,2024-03-28,453137,385560.5080504438
+C2498,Health,App,Hyderabad,2024-03-04,Approved,,Yes,2024-03-20,244190,198803.88267745587
+C2499,Life,Web,Hyderabad,2024-02-12,Rejected,Missing Documents,No,,482542,0.0
