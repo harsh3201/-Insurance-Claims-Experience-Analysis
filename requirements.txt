@@ -1,6 +1,7 @@
 pandas
 matplotlib
 seaborn
-streamlit
+streamlit>=1.35.0
 numpy
 altair<5
+standard-imghdr
