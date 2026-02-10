@@ -45,5 +45,4 @@ Insurance-Claims-Experience-Analysis/
 
 ---
 https://harsh3201--insurance-claims-experience-anal-dashboardapp-pyrj84.streamlit.app/
-*Developed as a Product Analyst Portfolio Project.*
 
