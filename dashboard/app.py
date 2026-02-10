@@ -64,7 +64,7 @@ st.markdown("""
 
 @st.cache_data
 def get_data():
-    df = pd.read_csv("d:/prroject/Analysi/data/claims_data.csv")
+    df = pd.read_csv("data/claims_data.csv")
     df['submission_date'] = pd.to_datetime(df['submission_date'])
     df['approval_date'] = pd.to_datetime(df['approval_date'])
     df['tat_days'] = (df['approval_date'] - df['submission_date']).dt.days
